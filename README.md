@@ -49,11 +49,9 @@
 <summary>规则列表</summary>
 <ul>
   
-- **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
-- **[黑名单规则(CF国内加速-推荐)](https://github.guanmengkai.bf/https://raw.githubusercontent.com/guandasheng/TheBestAdrules/master/rules.txt)**
-- **[黑名单规则(Gitee国内加速-延迟12H)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/rules.txt)**
-
-- 
+- **[黑名单规则（Github）](https://raw.githubusercontent.com/guandasheng/TheBestAdrules/main/rule/all.txt)**
+- **[黑名单规则(CF国内加速-推荐)](https://github.guanmengkai.bf/https://raw.githubusercontent.com/guandasheng/TheBestAdrules/main/rule/all.txt)**
+- **[黑名单规则(Gitee国内加速-延迟12H)](https://gitee.com/guanmengkai/TheBestAdrules/raw/main/rule/all.txt)**
 
 </ul>
 </details>
