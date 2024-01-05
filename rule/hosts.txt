@@ -1,7 +1,7 @@
-[ADFS Adblock List]
+[关圣®云去广告DNS 去广告规则列表]
 ! Title: hosts.txt
-! Last Modified: 2024-01-05 17:57:10
-! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+! Last Modified: 2024-01-05 18:06:57
+! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt)
 104.22.8.141                   api.pureapk.com
 17.253.119.202                 audio.itunes.apple.com
