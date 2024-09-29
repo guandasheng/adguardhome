@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2024-09-29 09:37:59
+! Last Modified: 2024-09-29 16:22:29
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -203,24 +203,18 @@
 ||collector-*.px-cloud.net^
 ||c*hit.zerkalo.io^
 ||collector-*.tvsquared.com^
-||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||device-metrics-*.amazon.com^
 ||datacollect*.abtasty.com^
 ||ej1*.online^
 ||collector-*.us.tvsquared.com^
-||eum*.instana.io^
 ||browser-intake-*-datadoghq.com^
-||events-*.op.hicloud.com^
-||events*.cre.ma^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||cdn-adn-*.rayjump.com^
 ||dj1*.online^
 ||collector*.ex.co^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||fb_servpub-a.akamaihd.net^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||host*.nti.nl^
 ||log*-misc-lq.amemv.com^
@@ -242,7 +236,9 @@
 ||fp-*it*.fengkongcloud.com^
 ||log*-misc-lf.amemv.com^
 ||host*.rvshare.com^
+||events-*.op.hicloud.com^
 ||host*.polaroid.com^
+||events*.cre.ma^
 ||geoloc*.geostats.ovh^
 ||js*.abolezi.com^
 ||f-log-*.grammarly.io^
@@ -261,12 +257,14 @@
 ||gscounters.*.gigya.com^
 ||fads*z.com^
 ||iad-*.braze.com^
+||events-api*.outfit7.com^
 ||fpb*.51edu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||log-*.previewnetworks.com^
 ||gtlpa*.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||log-*.epicdn.me^
+||eum*.instana.io^
 ||gcw*.2liang.cn^
 ||fads*s.com^
 ||impservice*.yodao.com^
@@ -282,9 +280,6 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||log*.byteoversea.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||webmail_293537237.gxwbtl.com^
-||webmail_495270293.gxwbtl.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||pixel*.production-public.tubi.io^
 ||pangolin-sdk-toutiao*.com^
@@ -381,7 +376,6 @@
 ||block.s*block.com^
 ||sgtm.fairmont.
 ||web-visor.
-||1024wanzhai.
 ||under-click.
 ||analytics.streamfab.
 ||log-collector.shopee.
@@ -489,11 +483,6 @@
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||zgarniij_vouchher.skroc.pl^
-||09_19.supfree.net^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||msoft_docusign_verification_secured-doc_office.zatrdg.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||ad*.thisisgame.com^
 analytics-*.aasaam.com
@@ -508,6 +497,17 @@ analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ads-*.v.ssp.yahoo.com^
 ||t.delfi.
+||1024wanzhai.
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||fb_servpub-a.akamaihd.net^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||webmail_293537237.gxwbtl.com^
+||webmail_495270293.gxwbtl.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||zgarniij_vouchher.skroc.pl^
+||09_19.supfree.net^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||msoft_docusign_verification_secured-doc_office.zatrdg.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||adidas--*
 ||blender3d-software.
