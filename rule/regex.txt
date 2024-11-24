@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2024-11-24 00:22:12
+! Last Modified: 2024-11-24 09:42:04
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -138,7 +138,6 @@
 ||ajx*.online^
 ||apple.com-*.live^
 ||analytics*.clickdimensions.com^
-||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ads*.production-public.tubi.io^
@@ -153,7 +152,6 @@
 ||ads*-normal-*.zijieapi.com^
 ||a*.chajiaotong.com^
 ||api*.bidmachine.io^
-||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
@@ -163,7 +161,6 @@
 ||api*.batmobil.net^
 ||auth-*.hismarttv.com^
 ||adcounter*.uptolike.ru^
-||batchlogging*-eu.truecaller.com^
 ||ad*.ettoday.net^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
@@ -193,6 +190,7 @@
 ||device-metrics-us*.amazon.com^
 ||dn*.ixinwei.com^
 ||dm-*.toutiao.com^
+||bdlm*.hc360.com^
 ||d*.wanzhuang.com^
 ||chat*-ce.chatdealer.jp^
 ||counter*.stat.ovh^
@@ -206,6 +204,7 @@
 ||device-metrics-*.amazon.com^
 ||datacollect*.abtasty.com^
 ||collector-*.us.tvsquared.com^
+||batchlogging*-eu.truecaller.com^
 ||browser-intake-*-datadoghq.com^
 ||beacons*.gvt3.com^
 ||cas.*.criteo.com^
@@ -214,6 +213,7 @@
 ||dj1*.online^
 ||collector*.ex.co^
 ||bi-eventtracker-*.amazonaws.com^
+||batchlogging*-noneu.truecaller.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||host*.nti.nl^
 ||fanpingbi*.gaokao.com^
@@ -274,6 +274,7 @@
 ||log*.vietnamplus.vn^
 ||mcdp-*.outbrain.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
+||px*.mediahills.ru^
 ||log*-normal-*.tiktokv.us^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -292,6 +293,7 @@
 ||n*adserv.com^
 ||log-*.zadn.vn^
 ||mon*-*.tiktokv.us^
+||pxl-*.ozone.ru^
 ||ky891.oss-*.aliyuncs.com^
 ||mobileanalytics.*.amazonaws.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -317,6 +319,7 @@
 ||piwik.*.com.vn^
 ||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
+||quangcao-*.epicdn.me^
 ||logservice-*.platform.dbankcloud.cn^
 ||pixel-*.convertagain.net^
 ||log*.zijieapi.com^
@@ -325,19 +328,23 @@
 ||mon*-misc-lf.fqnovel.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||reachableads-av.*.amazonaws.com^
+||tracking.*.miui.com^
 ||t*.zcvh.net^
+||tracking-v*.a.run.app^
 ||sell*.etlong.com^
 ||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
 ||sense-*.tapdb.net^
 ||sonar*.xy.fbcdn.net^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
+||trk*.vidible.tv^
 ||sock*-goguardian.pusher.com^
 ||report.*.qq.com^
 ||toujing*.top^
-||px*.mediahills.ru^
 ||rtlog*.tiktokv.us^
+||tracking-*.trnox.com^
 ||st-*.dynamicyield.com^
 ||static*.365inews.com^
 ||rum*.cdnvideo.ru^
@@ -351,7 +358,6 @@
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
 ||stats2.*.fdnames.com^
-||quangcao-*.epicdn.me^
 ||tnc*.zijieapi.com^
 ||rtlog*.tiktokv.com^
 ||tblog-*.kgslb.com^
@@ -361,25 +367,19 @@
 ||sam*.baby-kingdom.com^
 ||stats*.videonow.ru^
 ||s*.skencituer.com^
-||pxl-*.ozone.ru^
 ||servo-report.keepstreams.*^
 ||sads*z.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
-||tracking.*.miui.com^
 ||zcchyr*.xyz^
 ||uc*.atobo.com^
-||tracking-v*.a.run.app^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
-||tracking*.euroads.fi^
 ||ulog*.*^
 ||w*.*skwai.com^
-||trk*.vidible.tv^
 ||xlog*-*.tiktokv.com^
 ||util-*.simply-hentai.com^
 ||ya*.dwstatic.com^
-||tracking-*.trnox.com^
 ||v*-ad.video.yximgs.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||widgets.*.webengage.com^
