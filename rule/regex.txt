@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2024-12-20 00:22:21
+! Last Modified: 2024-12-20 09:25:49
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -117,7 +117,6 @@
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
 ||ad*.on.cc^
-||bjkedv*.xyz^
 ||ads*.dfiles.ru^
 ||ads.livetv*.me^
 ||adservice.google.*^
@@ -203,6 +202,7 @@
 ||counter*.stat.ovh^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||bjkedv*.xyz^
 ||c*hit.zerkalo.io^
 ||collector-*.tvsquared.com^
 ||display-ad-*.kgslb.com^
@@ -361,7 +361,6 @@
 ||stats2.*.fdnames.com^
 ||ulog*.kwaipros.com^
 ||v*.denakop.com^
-||www.xxmh*.com^
 ||tblog-*.kgslb.com^
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
@@ -401,6 +400,7 @@
 ||zazgbqg*.xyz^
 ||xlog*-*.tiktokv.com^
 ||zbc6hye*.xyz^
+||www.xxmh*.com^
 ||ya*.dwstatic.com^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
@@ -522,6 +522,7 @@ analytics-*.aasaam.com
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
 ||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
+||hitnslab.info|
 @@|www.auslogics.com|
 ||adidas--*
 ||blender3d-software.
@@ -539,6 +540,7 @@ analytics-*.aasaam.com
 ||pubggift*.xyz^
 ||pamela.*.com^
 ||giveawaycord.
+|1x1.cz|
 ||webull-download.
 ||americanconsultantrx.
 ||amanda.*.com^
@@ -557,8 +559,10 @@ analytics-*.aasaam.com
 ||highercaptcha-settle.
 ||pamela.*.net^
 ||1xbet-*.com^
+|pizzaseo.com|
 ||secure-access-*.gate23.xyz^
 ||hokaoutlet*
+|dominiosvision.com|
 ||adidasfactoryoutlet*
 ||my-altinn*
 ||blender3d-download.
@@ -600,13 +604,8 @@ analytics-*.aasaam.com
 ||mizunocanada*
 ||avito.avito.avito.
 ||mizunousaoutlet*
-||22betx*.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-||hitnslab.info|
-|1x1.cz|
-|dominiosvision.com|
 ||version.server|
-|pizzaseo.com|
+||22betx*.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 jquery-eu-cookie-law-popup*
 ||matt.mercadolibre.
