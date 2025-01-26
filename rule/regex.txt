@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2025-01-26 09:26:02
+! Last Modified: 2025-01-26 16:20:24
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -105,6 +105,8 @@
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||secure-ad-jp_rs-cp_auth-67942cf0e5353.belizegiftshops.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||ads*.textra.me^
 ||aj2*.online^
@@ -265,6 +267,8 @@
 ||gads*z.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||fb_servpub-a.akamaihd.net^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||pixel*.production-public.tubi.io^
 ||pangolin-sdk-toutiao*.com^
@@ -275,6 +279,7 @@
 ||log*.vietnamplus.vn^
 ||mcdp-*.outbrain.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
+||px*.mediahills.ru^
 ||log*-normal-*.tiktokv.us^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -293,6 +298,7 @@
 ||n*adserv.com^
 ||log-*.zadn.vn^
 ||mon*-*.tiktokv.us^
+||pxl-*.ozone.ru^
 ||mobileanalytics.*.amazonaws.com^
 ||pijama.*.elasticbeanstalk.com^
 ||mobileoffers-*-download.com^
@@ -317,6 +323,7 @@
 ||piwik.*.com.vn^
 ||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
+||quangcao-*.epicdn.me^
 ||logservice-*.platform.dbankcloud.cn^
 ||pixel-*.convertagain.net^
 ||log*.zijieapi.com^
@@ -324,6 +331,8 @@
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||help_plans-subscriptions-mobile_orders-bills-674f0eb659808.greengoods73.shop^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||reachableads-av.*.amazonaws.com^
 ||t*.zcvh.net^
@@ -336,73 +345,70 @@
 ||sd.yhzzzs*.com^
 ||sock*-goguardian.pusher.com^
 ||report.*.qq.com^
-||px*.mediahills.ru^
 ||rtlog*.tiktokv.us^
 ||st-*.dynamicyield.com^
 ||static*.365inews.com^
 ||rum*.cdnvideo.ru^
 ||stat.*.v-56.com^
 ||stats-*.p2pnow.ru^
-||thezbpe5*.xyz^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||rtbimp-loadbalancer-*.amazonaws.com^
-||telemetry*.transcend.io^
 ||stats2.*.fdnames.com^
-||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
-||tblog-*.kgslb.com^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||sam*.baby-kingdom.com^
 ||stats*.videonow.ru^
 ||s*.skencituer.com^
-||pxl-*.ozone.ru^
 ||servo-report.keepstreams.*^
 ||sads*z.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||tracking.*.miui.com^
 ||ulog*.kwai-pro.com^
-||zcchyr*.xyz^
 ||uc*.atobo.com^
 ||tracking-v*.a.run.app^
-||zaqlovh*.xyz^
-||zazgiyoh*.xyz^
-||zcchyw*.xyz^
 ||tracking*.euroads.fi^
 ||ulog*.*^
 ||w*.*skwai.com^
 ||trk*.vidible.tv^
-||xlog*-*.tiktokv.com^
 ||util-*.simply-hentai.com^
-||ya*.dwstatic.com^
 ||toujing*.top^
 ||tracking-*.trnox.com^
 ||v*-ad.video.yximgs.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||track.*.roku.com^
 ||widgets.*.webengage.com^
-||zazgiyoh*.world^
-||zhizhizhizhi.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
-||zabdybod*.club^
-||yhsfsdv*.com^
+||thezbpe5*.xyz^
+||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
-||zazgbqg*.xyz^
 ||ulog*.kwaipros.com^
 ||v*.denakop.com^
 ||tnc*.zijieapi.com^
-||zbc6hye*.xyz^
-||www.xxmh*.com^
-||zahrvfbd*.xyz^
-||zbc6hy*.live^
+||tblog-*.kgslb.com^
 ||union*.365inews.com^
-||zbb.bbb.*.pics^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
+! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
+||zazgiyoh*.world^
+||zcchyr*.xyz^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||zabdybod*.club^
+||yhsfsdv*.com^
+||zaqlovh*.xyz^
+||zazgiyoh*.xyz^
+||zcchyw*.xyz^
+||zazgbqg*.xyz^
+||xlog*-*.tiktokv.com^
+||zbc6hye*.xyz^
+||www.xxmh*.com^
+||ya*.dwstatic.com^
+||zahrvfbd*.xyz^
+||zbc6hy*.live^
+||zbb.bbb.*.pics^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||help_plans-subscriptions-mobile_orders-bills-674f0eb659808.greengoods73.shop^
-||fb_servpub-a.akamaihd.net^
+||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
@@ -523,8 +529,6 @@ analytics-*.aasaam.com
 ||fxhpaoxqyajvmdg.
 ||poptraf.
 ||v*.sitecounter.site^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@|www.auslogics.com|
 ||adidas--*
@@ -594,9 +598,6 @@ analytics-*.aasaam.com
 ||no-forny*
 ||avito.avito.avito.
 ||monetrizer*.
-||highcpmrevenue*.com^
-||profitablecpm*.com^
-||highperformancecpm*.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||hitnslab.info|
 |dominiosvision.com|
@@ -612,9 +613,12 @@ analytics-*.aasaam.com
 ||acrxcards.
 ||americanconsultantrx.
 ||americanconsultantsrx.
+||highcpmrevenue*.com^
 ||pubggf*.xyz^
+||profitablecpm*.com^
 ||version.server|
 |pizzaseo.com|
+||highperformancecpm*.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 jquery-eu-cookie-law-popup*
 ||matt.mercadolibre.
