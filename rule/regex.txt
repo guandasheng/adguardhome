@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2025-01-30 09:22:10
+! Last Modified: 2025-01-30 16:23:02
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -230,6 +230,7 @@
 ||js*.abolezi.com^
 ||f-log-*.grammarly.io^
 ||imp-*.jampp.com^
+||ky891.oss-*.aliyuncs.com^
 ||iptracker-lb-*.amazonaws.com^
 ||js.*2023*.live^
 ||iad-*.appboy.com^
@@ -262,6 +263,7 @@
 ||pixel*.production-public.tubi.io^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
+||player-feedback*.glomex.*^
 ||log*-misc-lq.amemv.com^
 ||mapi-log.qoo*.jp^
 ||log*.vietnamplus.vn^
@@ -272,25 +274,28 @@
 ||p26.gejulm*.com^
 ||log*-applog-*.tiktokv.com^
 ||lively-collect-elb-*.amazonaws.com^
+||prebid-*.rubiconproject.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mssdk*.zijieapi.com^
 ||mob*.novanewsapp.com^
 ||log*-misc-lf.amemv.com^
 ||opnked*.xyz^
+||promo-*.vercel.app^
 ||mssdk-*.tiktokw.us^
 ||pixel-*.rubiconproject.com^
 ||n*adserv.com^
 ||log-*.zadn.vn^
 ||mon*-*.tiktokv.us^
-||ky891.oss-*.aliyuncs.com^
 ||mobileanalytics.*.amazonaws.com^
 ||pijama.*.elasticbeanstalk.com^
 ||mobileoffers-*-download.com^
 ||n*adserv.xyz^
 ||piwik.*.vn^
 ||logger-*.dailymotion.com^
+||production-adserver-*.amazonaws.com^
 ||mautic.*.vn^
+||polaris*-normal-*.zijieapi.com^
 ||mon*-platform-*.tiktokv.com^
 ||ms*.applvn.com^
 ||mcs-va-*.tiktokv.com^
@@ -315,22 +320,22 @@
 ||mon*-misc-lf.fqnovel.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||reachableads-av.*.amazonaws.com^
+||tracking.*.miui.com^
 ||t*.zcvh.net^
-||player-feedback*.glomex.*^
+||tracking-v*.a.run.app^
 ||stats*.credit-cooperatif.coop^
-||production-adserver-*.amazonaws.com^
+||tracking*.euroads.fi^
 ||sonar*.xy.fbcdn.net^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
-||polaris*-normal-*.zijieapi.com^
 ||sd.yhzzzs*.com^
 ||sock*-goguardian.pusher.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
 ||rtlog*.tiktokv.us^
+||tracking-*.trnox.com^
 ||st-*.dynamicyield.com^
 ||static*.365inews.com^
-||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||track.*.roku.com^
 ||stat.*.v-56.com^
@@ -345,7 +350,6 @@
 ||quangcao-*.epicdn.me^
 ||tnc*.zijieapi.com^
 ||rtlog*.tiktokv.com^
-||promo-*.vercel.app^
 ||tblog-*.kgslb.com^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
@@ -355,25 +359,19 @@
 ||pxl-*.ozone.ru^
 ||servo-report.keepstreams.*^
 ||sads*z.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||fb_servpub-a.akamaihd.net^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
-||tracking.*.miui.com^
 ||ulog*.kwai-pro.com^
 ||zcchyr*.xyz^
 ||uc*.atobo.com^
-||tracking-v*.a.run.app^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
-||tracking*.euroads.fi^
 ||ulog*.*^
 ||w*.*skwai.com^
 ||trk*.vidible.tv^
 ||xlog*-*.tiktokv.com^
 ||util-*.simply-hentai.com^
 ||ya*.dwstatic.com^
-||tracking-*.trnox.com^
 ||v*-ad.video.yximgs.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||widgets.*.webengage.com^
@@ -395,6 +393,9 @@
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
 ||help_plans-subscriptions-mobile_orders-bills-674f0eb659808.greengoods73.shop^
+||fb_servpub-a.akamaihd.net^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
@@ -515,8 +516,6 @@ analytics-*.aasaam.com
 ||fxhpaoxqyajvmdg.
 ||poptraf.
 ||v*.sitecounter.site^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@|www.auslogics.com|
 ||adidas--*
