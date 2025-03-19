@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2025-03-19 09:38:42
+! Last Modified: 2025-03-19 16:27:05
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -206,7 +206,6 @@
 ||datacollect*.abtasty.com^
 ||ej1*.online^
 ||collector-*.us.tvsquared.com^
-||eum*.instana.io^
 ||browser-intake-*-datadoghq.com^
 ||clickstream-*.homedepot.com^
 ||cas.*.criteo.com^
@@ -231,8 +230,6 @@
 ||faro-collector-prod-*.grafana.net^
 ||hostingcloud.*.wasm^
 ||lively-collect-elb-*.amazonaws.com^
-||lt*.tritondigital.com^
-||maas-*.phunware.com^
 ||hstats*.hepsiburada.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
@@ -265,10 +262,10 @@
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||hw-p2p*pull*com^
 ||log-*.previewnetworks.com^
-||mads*z.com^
 ||gtlpa*.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||log-*.epicdn.me^
+||eum*.instana.io^
 ||gcw*.2liang.cn^
 ||fads*s.com^
 ||impservice*.yodao.com^
@@ -310,6 +307,8 @@
 ||p26.gejulm*.com^
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
+||lt*.tritondigital.com^
+||maas-*.phunware.com^
 ||mssdk*.tiktokv.us^
 ||prebid-cache*.ifunny.co^
 ||qn-*pcdn.cdn.huya.com^
@@ -343,6 +342,7 @@
 ||mcs-va-*.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
+||mads*z.com^
 ||marketplace-*.hyprmx.com^
 ||mon*-*.tiktokv.com^
 ||mediate-ios-*.hyprmx.com^
@@ -424,18 +424,10 @@
 ||zbb.bbb.*.pics^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||2025_tax_compliance_team_x1update_tax_review.nemiron.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||2025_tax_compliance_team_x1update_tax_review.ntaxisantroa.ru^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||adserver*.euroweeklynews.com^
-analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
-||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 |load.sst.
@@ -444,7 +436,6 @@ analytics-*.aasaam.com
 ||bondzgi*.
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
-||adservice.google.co.*
 ||v.tzbox*.xyz^
 ||u*.takru.com^
 ||cnt.vivatube.
@@ -463,7 +454,6 @@ analytics-*.aasaam.com
 ||tag-based.s3.*.amazonaws.com^
 ||cpng.lol.^
 ||alishop*.ru^
-||ad*.wisenut.co.kr^
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||banner*.kinogo.by^
@@ -474,12 +464,9 @@ analytics-*.aasaam.com
 |load.ss.
 ||talpa-analytics.
 ||linkexchange.
-||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
 ||sgtm.fairmont.
-||ads-*.v.ssp.yahoo.com^
 ||web-visor.
-||1024wanzhai.
 ||under-click.
 ||analytics.streamfab.
 ||log-collector.shopee.
@@ -487,7 +474,6 @@ analytics-*.aasaam.com
 ||goodadvert.
 ||cdn*.swaxis.com^
 ||srmdata-*.com^
-||adimg*.search.naver.net^
 ||icq-window.
 ||icqwindow.
 ||rb*.design.ru^
@@ -497,14 +483,11 @@ analytics-*.aasaam.com
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||collector.hamsterix.
-||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||a*.smlog.co.kr^
 ||ad*.bilgin.pro^
-||track.zalando.
 ||seller-log-collector.shopee.
 ||subnewss*.net^
-||t.delfi.
 ||medialand.
 ||rotaban.
 ||rusrestbest.
@@ -519,7 +502,6 @@ analytics-*.aasaam.com
 ||track.tiara.
 ||orbit*.lun.ua^
 ||popupclick.
-||ad*.thisisgame.com^
 |load.sgtm.
 ||dw-informer-*.newsru.com^
 |piwik.
@@ -528,8 +510,6 @@ analytics-*.aasaam.com
 ||minitds-*.info^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
-||ad.*.doubleclick.net^
-||s*.adduplex.com^
 ||snowplow-collector-*.amazonaws.com^
 ||thegreatesthits.
 ||adserver1.
@@ -552,6 +532,27 @@ analytics-*.aasaam.com
 ||fxhpaoxqyajvmdg.
 ||poptraf.
 ||v*.sitecounter.site^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||2025_tax_compliance_team_x1update_tax_review.nemiron.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||2025_tax_compliance_team_x1update_tax_review.ntaxisantroa.ru^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
+||ad*.thisisgame.com^
+analytics-*.aasaam.com
+||ad*.wisenut.co.kr^
+||adservice.google.co.*
+||tracking.olx.
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||ad.*.doubleclick.net^
+||s*.adduplex.com^
+||track.zalando.
+||adimg*.search.naver.net^
+||pangolin*.sgsnssdk.com^
+||ads-*.v.ssp.yahoo.com^
+||t.delfi.
+||1024wanzhai.
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||09_19.supfree.net^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||lianmeng*.*^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
@@ -605,45 +606,45 @@ analytics-*.aasaam.com
 ||mizunousaoutlet*
 ||22betx*.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-||booking.com-id*
-||my-altinn*
-||apple-walletsuspension.
-||dotagift*.xyz^
-||pubggift*.xyz^
-||acrxcoupon.
-||githubtalentcommunity.
-||avito.avito.www.avito.
-||acrxcards.
-||americanconsultantrx.
-||no-forny*
-||monetrizer*.
-||pubggf*.xyz^
 ||yandex.avito.www.
 ||booklng.com-*
 ||no-oppdatere.
+||booking.com-id*
+||my-altinn*
+||apple-walletsuspension.
 ||dnb-oppdater.
-||csgogf*.xyz^
 ||yandex.pay.avito.
-||2spendless.
-||acrxcoupons.
+||githubtalentcommunity.
 ||no-oppdatert.
 ||yandex.avito.sber*
-||csgogift*.xyz^
-||acrxnews.
+||avito.avito.www.avito.
 ||reschedule-delivery.ups.com.
-||americanconsultantsrx.
+||no-forny*
 ||avito.avito.avito.
+||monetrizer*.
 ||highcpmrevenue*.com^
 ||profitablecpm*.com^
 ||highperformancecpm*.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 ||hitnslab.info|
-||freediscordnitro.
-|1x1.cz|
 ||discord*.gifts^
 |dominiosvision.com|
+||dotagift*.xyz^
+||csgogf*.xyz^
+||2spendless.
+||pubggift*.xyz^
+||acrxcoupon.
+||freediscordnitro.
+||acrxcoupons.
+|1x1.cz|
+||csgogift*.xyz^
+||acrxnews.
 ||discord-give.
+||acrxcards.
+||americanconsultantrx.
+||americanconsultantsrx.
 ||discord-nitro.
+||pubggf*.xyz^
 ||version.server|
 |pizzaseo.com|
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
