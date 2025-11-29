@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">TheBestAdrules<br></h1>
-  <p>TheBestAdrules，适用于Adguard Home的去广告dns规则，由关圣云®整理上游优秀的规则，合并去重而来，集百家之所长，取其精华去其糟粕。
-关圣云®官网https://dns.dns1.top 官方微信群及QQ群见官网公布。
-关圣云®DNS，一个人人可加入的公益去广告dns团队，目前拥有7条公益dns节点。
-捐赠，或者提供服务器均可加入“关圣云®爱发电”团队。 
+  <p>TheBestAdrules，适用于Adguard Home的去广告dns规则，由关圣整理上游优秀的规则，合并去重而来，集百家之所长，取其精华去其糟粕。 
+关圣DNS官网https://dns1.top 官方微信群及QQ群见官网公布。 
 由于目前网络上发布的规则众多，逐个添加难免有重复的，而且不方便维护，因此创建此仓库，方便关圣云更新dns规则，也可以方便其他自建dns的小伙伴一键导入。
   </p>
 </h1>
