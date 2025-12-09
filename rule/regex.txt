@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2025-12-09 16:33:39
+! Last Modified: 2025-12-10 00:30:28
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -66,7 +66,6 @@
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||analytics-*-nfl.yinzcam.com^
 ||api*.amplitude.com^
-||app-analytics-*.snapchat.com^
 ||ad*.on.cc^
 ||ads*.dfiles.ru^
 ||ads.livetv*.me^
@@ -146,6 +145,7 @@
 ||ce-global-track-*.amazonaws.com^
 ||customerevents.us-east-*.internal.dradis.netflix.com^
 ||bdlm*.hc360.com^
+||app-analytics-*.snapchat.com^
 ||chat*-ce.chatdealer.jp^
 ||counter*.stat.ovh^
 ||collect-elb-*.amazonaws.com^
@@ -181,36 +181,12 @@
 ||apple-*.le.com^
 ||asd8900.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
-||host*.nti.nl^
 ||ecommerce-events*.adscale.com^
-||htm*.hepsiburada.com^
-||fanpingbi*.gaokao.com^
-||hn-ping*.hashnode.com^
-||dn*.ixinwei.com^
-||host*.carl-ras.dk^
-||host*.ncoi.nl^
-||hw-sh-pcdn-*.biliapi.net^
-||faro-collector-prod-*.grafana.net^
-||hostingcloud.*.wasm^
-||device-metrics-*.amazon.com^
-||datacollect*.abtasty.com^
-||hstats*.hepsiburada.com^
-||hads*s.com^
-||geoloc*.geo20120530.com^
-||fp-*it*.fengkongcloud.com^
-||get*bannerads-6egeg2u34q-du.a.run.app^
-||host*.rvshare.com^
-||events-*.op.hicloud.com^
-||host*.polaroid.com^
-||events*.cre.ma^
-||data-track*.yingxiong.com^
-||geoloc*.geostats.ovh^
-||datacollector-*.dt.dbankcloud.cn^
-||f-log-*.grammarly.io^
-||hba*.hepsiburada.com^
 ||event.*.karrotmarket.com^
 ||datacollector-*.dt.hicloud.com^
+||fanpingbi*.gaokao.com^
 ||device-metrics-us*.amazon.com^
+||dn*.ixinwei.com^
 ||gads*s.com^
 ||discovery-ios-*.ertelecom.ru^
 ||geotargetly-api-*.com^
@@ -219,51 +195,72 @@
 ||events-api*.outfit7.com^
 ||fpb*.51edu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
-||hw-p2p*pull*com^
 ||display-ad-*.kgslb.com^
+||faro-collector-prod-*.grafana.net^
 ||gtlpa*.com^
+||device-metrics-*.amazon.com^
 ||event.*.shoplive.cloud^
+||datacollect*.abtasty.com^
 ||ej1*.online^
+||hads*s.com^
 ||eum*.instana.io^
+||geoloc*.geo20120530.com^
 ||gcw*.2liang.cn^
 ||fads*s.com^
+||fp-*it*.fengkongcloud.com^
+||get*bannerads-6egeg2u34q-du.a.run.app^
+||events-*.op.hicloud.com^
 ||flurry.agentportal.*.yahoodns.net^
+||events*.cre.ma^
+||data-track*.yingxiong.com^
+||geoloc*.geostats.ovh^
+||datacollector-*.dt.dbankcloud.cn^
 ||dj1*.online^
+||f-log-*.grammarly.io^
 ||geoloc*.geovisite.ovh^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||flurry.agentportal-*.yahoodns.net^
-||host*.rigbyandpeller.com^
+||hba*.hepsiburada.com^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||mon*-misc.fqnovel.com^
+||host*.nti.nl^
 ||mssdk*.capcutapi.com^
+||htm*.hepsiburada.com^
 ||log*-misc-lq.amemv.com^
 ||mapi-log.qoo*.jp^
 ||log*.vietnamplus.vn^
 ||matomo-demo-*.amazonaws.com^
+||hn-ping*.hashnode.com^
 ||mcdp-*.outbrain.com^
 ||mgbsdk*.matrix.easebar.com^
 ||mcs-*.tiktok.com^
+||host*.carl-ras.dk^
 ||ifengad.*.ifeng.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||log*-normal-*.tiktokv.us^
 ||matomo.*.vn^
+||host*.ncoi.nl^
+||hw-sh-pcdn-*.biliapi.net^
+||hostingcloud.*.wasm^
 ||lively-collect-elb-*.amazonaws.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||install*.zonastat.com^
+||hstats*.hepsiburada.com^
 ||mssdk*.zijieapi.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
 ||mob*.novanewsapp.com^
 ||mcs.*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
+||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||host*.polaroid.com^
 ||logs-*.rebxgame.com^
 ||mon*.tiktokv.us^
 ||mcs-*.lemon8-app.com^
 ||js*.abolezi.com^
-||n*adserv.com^
 ||ks-p2p*pull*com^
 ||log-va*.capcutapi.com^
 ||log-*.zadn.vn^
@@ -274,7 +271,6 @@
 ||mobileanalytics.*.amazonaws.com^
 ||mon-va*.capcutapi.com^
 ||js.*2023*.live^
-||n*adserv.xyz^
 ||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
 ||mautic.*.vn^
@@ -284,6 +280,7 @@
 ||ms*.applvn.com^
 ||mcs-va-*.tiktokv.com^
 ||mon-*.tiktokv.com^
+||hw-p2p*pull*com^
 ||mcs.*.tiktok.com^
 ||log-*.previewnetworks.com^
 ||mads*z.com^
@@ -303,8 +300,12 @@
 ||log*.zijieapi.com^
 ||log*-normal-useast1a.lemon8-app.com^
 ||log*.aliyuncs.com^
+||host*.rigbyandpeller.com^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
+||zitcom_ltzl8_sign_on_aygld8w1qy_a3glpap7z0.dranataliaxavier.com.br^
+||fb_servpub-a.akamaihd.net^
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 ||pixel*.production-public.tubi.io^
 ||reachableads-av.*.amazonaws.com^
@@ -315,6 +316,7 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||res*.pinpai8.cn^
+||n*adserv.xyz^
 ||piwik.*.vn^
 ||production-adserver-*.amazonaws.com^
 ||prod.*.analytics.console.aws.a2z.com^
@@ -345,6 +347,7 @@
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||query*.petametrics.com^
+||n*adserv.com^
 ||sam*.baby-kingdom.com^
 ||s*.skencituer.com^
 ||pxl-*.ozone.ru^
@@ -565,9 +568,6 @@ analytics-*.aasaam.com
 ||sher.*.hu^
 ||1024wanzhai.
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
-||zitcom_ltzl8_sign_on_aygld8w1qy_a3glpap7z0.dranataliaxavier.com.br^
-||fb_servpub-a.akamaihd.net^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
 ||x_x-twitob-com.translate.goog^
 ||x_x-twitterfollowers-site.translate.goog^
 ||x_x-freeadd-me.translate.goog^
@@ -578,7 +578,6 @@ analytics-*.aasaam.com
 ||adidas--*
 ||blender3d-software.
 ||highercaptchasettle.
-||booking.com-id*
 ||ultimatevideoadblock.
 ||asicsoutlet*
 ||apple-walletsuspension.
@@ -593,12 +592,9 @@ analytics-*.aasaam.com
 ||webull-download.
 ||provideoadblocker.
 ||videoadblockertou.
-||yandex.avito.www.
-||booklng.com-*
 ||trc.*.co^
 ||verify-att.app.^
 ||videoadblocker-api.
-||yandex.pay.avito.
 ||glthub.
 ||adidas-outlet*
 ||all-best-prize-202*.com^
@@ -614,8 +610,6 @@ analytics-*.aasaam.com
 ||salomonoutlet*
 ||hokaoneone*
 ||top-captcharesolver.
-||githubtalentcommunity.
-||avito.avito.www.avito.
 ||best202*-games-web1.com^
 ||monetrizer*.
 ||best-prizes-202*.com^
@@ -632,10 +626,8 @@ analytics-*.aasaam.com
 ||dnb-oppdater.
 ||free-discordnitro.
 ||blender3ds-download.
-||yandex.avito.sber*
 ||freevideoadblock.
 ||mizunocanada*
-||avito.avito.avito.
 ||mizunousaoutlet*
 ||22betx*.com^
 ||videoadblockextension.
@@ -643,6 +635,7 @@ analytics-*.aasaam.com
 ||inposst-pl.
 ||postnordexpressdelivery-
 ||aupostsnow.
+||booking.com-id*
 ||aupostredelivery.
 ||aueparcelstrack.
 ||gitcoin-developers.
@@ -679,7 +672,9 @@ analytics-*.aasaam.com
 ||aupost-trackme.
 ||au-eparcelsan.
 ||mauritiupost.
+||githubtalentcommunity.
 ||au-eparcelse.
+||avito.avito.www.avito.
 ||acrxcards.
 ||egytpostl.
 ||posti-ffi.
@@ -704,6 +699,7 @@ analytics-*.aasaam.com
 ||csgogift*.xyz^
 ||gitcoin-grants.
 ||aupostmings.
+||avito.avito.avito.
 ||gitcoin-fund.
 ||version.server|
 ||aupostdelivered.
@@ -735,12 +731,15 @@ analytics-*.aasaam.com
 ||aupost-tracks.
 ||gitcoin-application.
 ||postnord-paket.
+||yandex.avito.www.
+||booklng.com-*
 ||discord*.gifts^
 ||auspostdeliver2.
 ||ausauapost.
 ||postnorg-dk*
 ||gitcoin-eligibility.
 ||aupost-parceled.
+||yandex.pay.avito.
 ||auposthandle.
 ||au-postags.
 ||postnord-pay.
@@ -777,6 +776,7 @@ analytics-*.aasaam.com
 ||2spendless.
 ||ausupoisteoline.
 ||aupostsent.
+||yandex.avito.sber*
 ||github-fund.
 ||ausepostrack.
 ||auspostredirecting.
