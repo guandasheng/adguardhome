@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-06-10 11:59:30
+! Last Modified: 2026-06-10 19:40:00
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -10,484 +10,470 @@
 *-ad.wtzw.com*
 ! 👇This Part Merge from: GOODBYEADS (https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt)
 2606:4700:3030::ac43:a86a      ifconfig.co
-2600:1405:8400:13::17de:3e5    msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 2a04:4e42:400::774             is1-ssl.mzstatic.com
 2001:4860:4802:34::223         firebaseinstallations.googleapis.com
 2001:4860:4802:38::223         translate-pa.googleapis.com
 240e:bf:b801:1e67:0:ff:b0e1:aeb7 xact06.baidupcs.com
 240e:951:2c10:600::d           st.dl.bscstorage.net
+2600:1408:ec00:1404::1735:b29  seeded-session-images.scdn.co
 2606:4700::6810:31e7           npaa.pc.netflix.net
-2603:1063:2001:62d::365:ff1    ocws.officeapps.live.com
-2600:1406:2e00:28::17cb:a623   crl.t-mobile.com
+2600:1f18:2148:bc02:5a8b:10f3:2c06:8d0d registry-1.docker.io
 2408:8772:0:1bc9:0:ff:b014:89db xacu02.baidupcs.com
 2a06:98c1:3106::6812:2bb2      auth.docker.io
+2620:149:a0f:f000::1           aod.itunes.apple.com
 2a06:98c1:3105::ac40:904e      auth.docker.io
 2408:8772:0:18f0:0:ff:b007:48f8 xacu02.baidupcs.com
 2606:50c0:8000::154            raw.github.com
-2620:149:a00:f000::143         aod.itunes.apple.com
-2600:1406:2e00:49a::4b36       c1-onenote-15.cdn.office.net
+2600:1408:ec00:1408::1736:7fe7 assets2.xboxlive.cn
+2600:1408:ec00:889::57         gameclipscontent-d2009.xboxlive.com
+2a02:6ea0:e200::36             filters.adtidy.org
+2600:1408:ec00:1408::1736:7fe7 assets1.xboxlive.cn
 2600:1f18:2148:bc02:4ef1:c8ca:6249:d50f registry-1.docker.io
 2606:4700:20::ac43:4789        ip2location.com
 240e:951:2c10:600::10          store.st.dl.eccdnx.com
-2607:f8b0:4003:c4a::bc         alt5-mtalk.google.com
-2600:1406:2e00:b01::170b:e86a  thisis-images.scdn.co
-2600:1406:2e00:b03::170b:e804  i.scdn.co
 2001:4860:4802:34::223         content-autofill.googleapis.com
+2a00:1450:4009:c0f::bc         alt3-mtalk.google.com
+2600:9000:2870:e00:1:7dd4:4340:93a1 ultimateota.d.miui.com
 2a04:4e42:200::774             is4-ssl.mzstatic.com
 2606:50c0:8000::153            pages.github.com
-2600:1406:2e00:b03::170b:e80f  misc.scdn.co
 240e:bf:b802:10eb:0:ff:b077:253a xact02.baidupcs.com
-2600:1406:2e00:89f::57         images-eds-ssl.xboxlive.com
+2a00:1450:4001:c21::bc         alt7.mobile-gtalk.l.google.com
 2606:50c0:8001::215            github.githubassets.com
 2606:4700:90:0:f22e:fbec:5bed:a9b9 www.gitlab.com
-2600:1406:2e00:98b::2215       southpark.cc.com
-2600:9000:285b:5200:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
-2600:9000:2804:b400:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:234b:4000:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
-2607:f8b0:4007:804::2003       googlecn-lopri.l.google.com
+2607:f8b0:4004:c29::bc         mtalk.google.com
+2600:1408:ec00:1404::1735:b29  thisis-images.scdn.co
 2408:8770:0:620:0:ff:b0ce:c8f0 appall01.baidupcs.com
-2600:9000:234b:9a00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
+2600:1f18:631e:2f81::de70      www.nflxvideo.net
+2a02:6ea0:e200::37             filters.adtidy.org
 2606:50c0:8000::154            user-images.githubusercontent.com
 2001:4860:4802:34::223         prod-lt-playstoregatewayadapter-pa.googleapis.com
 2408:8772:0:1bc9:0:ff:b014:89db xacu01.baidupcs.com
 2600:1f14:62a:de80::de70       netflix.net
 2a05:d018:76c:b680::de70       nflxvideo.net
 240e:930:c300:c00::17          dl.steam.clngaa.com
-2600:1406:2e00:b02::170b:e835  thisis-images.scdn.co
-2620:1ec:bdf::69               acctcdn.msauth.net
-2600:1406:2e00:b03::170b:e80a  seeded-session-images.scdn.co
-2600:1406:2e00:28::17cb:a626   crl.t-mobile.com
 2606:50c0:8000::154            raw.githubusercontent.com
-2600:1406:2e00:b00::170b:e8a5  audio-ak-spotify-com.akamaized.net
 2409:8c70:3a91:17f:0:ff:b097:e2ba bjbgp02.baidupcs.com
+2620:1ec:29:1::40              www.onenote.com
 2606:4700:7::a29f:820b         ir.netflix.net
 2606:50c0:8003::154            raw.githubusercontent.com
-2600:1f18:2148:bc01:dc90:cff2:1675:f2ad registry-1.docker.io
+2600:1408:ec00:1083::3b63      store-content.ak.epicgames.com
+2600:1408:a:53::170f:350       oneclient.sfx.ms
 2001:4860:4802:34::223         geller-pa.googleapis.com
 2606:50c0:8000::154            avatars.githubusercontent.com
 fd3e:4f5a:5b81::1              dns.msftncsi.com
-2600:9000:2804:8000:10:e3cf:3100:93a1 download.epicgames.com
-2a04:4e42:600::774             is3-ssl.mzstatic.com
+2607:f8b0:4004:c19::64         www3.l.google.com
 2606:4700:3037::6815:365b      ifconfig.co
+2600:1408:5400:1c::173d:b42    ipv6.msftconnecttest.com
 2409:8c04:1001:1366:0:ff:b0ac:5106 bdcm01.baidupcs.com
+2800:3f0:4003:c0f::bc          alt1-mtalk.google.com
 2001:4860:4802:32::223         content-autofill.googleapis.com
-2600:9000:285b:2c00:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
-2600:9000:234c:4600:1:7dd4:4340:93a1 superota.d.miui.com
-2600:9000:234b:e00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
-2600:9000:285b:0:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
 2606:4700:4406::6812:270b      customers.gitlab.com
-2600:9000:285b:7000:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2a00:1450:4001:c21::bc         alt7-mtalk.google.com
 2620:1ec:33:1::11              edge.microsoft.com
-2600:9000:2804:9a00:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:286a:9200:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
+2600:9000:27ce:3600:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2620:149:a10:f000::144         audio.itunes.apple.com
 2409:8c0c:310:3424:0:ff:b0cd:37dc yqcm06.baidupcs.com
 2606:4700:4406::6812:270b      chef.gitlab.com
-2600:1f14:62a:de80::de70       www.nflxvideo.net
 2620:1ec:33::10                bing.com
 2001:4860:4802:36::223         firebaseinstallations.googleapis.com
 2620:1ec:50::11                public.dm.files.1drv.com
-2600:9000:24bc:1000:7:9bc5:8900:93a1 hulu.jp
 2409:8c70:3a91:17f:0:ff:b097:e2ba bjbgp01.baidupcs.com
+2607:f8b0:4004:c19::8a         www3.l.google.com
 2600:1f14:62a:de81::de70       netflix.net
-2603:1063:2001:616::365:ff1    roaming.officeapps.live.com
+2603:1063:2001:51e::365:ff1    ocws.officeapps.live.com
 2001:1890:111d:1::28           route-server.ip.att.net
-2603:1030:a07:a::401           skydrive.wns.windows.com
 2606:4700:4406::6812:270b      levelup.gitlab.com
 2606:50c0:8000::153            guides.github.com
 240e:bf:b802:10eb:0:ff:b077:253a xact01.baidupcs.com
 240e:bf:b802:1d60:0:ff:b097:dc33 appall01.baidupcs.com
 2606:4700:10::6814:1ce8        ecchi.iwara.tv
-2603:1063:24:128::365:7ea3     config.edge.skype.com
-2600:1406:2e00:b00::170b:e8b6  audio-ak-spotify-com.akamaized.net
+2607:f8b0:4004:c0b::8a         clientservices.googleapis.com
+2600:1408:ec00:88f::33c4       ae.nflximg.net
 2606:50c0:8002::154            raw.github.com
-2607:f8b0:4007:808::2003       www.googleapis.cn
 240e:951:2c10:600::f           store.st.dl.eccdnx.com
-2600:9000:24bc:b600:7:9bc5:8900:93a1 hulu.jp
 2001:4860:4802:36::223         prod-lt-playstoregatewayadapter-pa.googleapis.com
-2607:f8b0:4005:801::2016       play-lh.googleusercontent.com
+2600:9000:2870:3200:1:7dd4:4340:93a1 ultimateota.d.miui.com
 2606:4700:10::ac42:aaaa        iwara.tv
 2606:4700:4409::ac40:9936      crunchyroll.com
 2606:50c0:8001::154            raw.github.com
 2602:f79a::1                   www.notion.so
 2620:1ec:50::11                docs.live.net
-2600:9000:234b:8c00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
-2600:9000:234c:5200:1:7dd4:4340:93a1 superota.d.miui.com
+2600:9000:286a:f600:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 2408:8772:0:18f0:0:ff:b007:48f8 xacu01.baidupcs.com
+2600:9000:28a6:5800:7:9bc5:8900:93a1 hulu.jp
+2600:1408:5400:58a::20b6       aod-ssl.itunes.apple.com
+2600:9000:286a:d800:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
+2600:1408:ec00:1f::1735:23cc   bigota.d.miui.com
+2600:387:f:70c::1              epdg.epc.att.net
+2600:9000:2032:a600:10:e3cf:3100:93a1 download.epicgames.com
+2600:1f18:2148:bc02:5a17:655f:105c:7251 registry-1.docker.io
 2408:8756:c9f:1000::9d94:412e  d7.baidupcs.com
-2600:9000:2804:de00:10:e3cf:3100:93a1 download.epicgames.com
 2606:50c0:8003::153            guides.github.com
+2600:1408:ec00:140c::1736:7fac tlu.dl.delivery.mp.microsoft.com
 2a04:4e42:400::774             is4-ssl.mzstatic.com
+2600:1408:a:203::170f:398      i.scdn.co
 2600:1f18:297:ba24:b508:76de:f4a:df34 sho.com
-2600:9000:234b:f800:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
-2600:1406:2e00:b00::170b:e8a7  i.scdn.co
-2600:1406:2e00:884::20b6       aod-ssl.itunes.apple.com
+2603:1063:2001:53c::365:ff1    roaming.officeapps.live.com
+2607:f8b0:4004:c29::5f         translate.googleapis.com
 2606:50c0:8001::154            media.githubusercontent.com
-2600:1f18:2148:bc00:3afb:2a01:9f41:55ae registry-1.docker.io
 2606:4700:90:0:f22e:fbec:5bed:a9b9 gitlab.com
 240e:93c:109:100::a0           dl.steam.clngaa.com
+2a02:6ea0:e200::17             filters.adtidy.org
+2a04:4e42:4e::684              msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+2600:1408:ec00:1083::3b63      store-site-backend-static.ak.epicgames.com
 2606:4700:10::ac42:aaaa        ecchi.iwara.tv
 2a04:4e42::774                 is5-ssl.mzstatic.com
-2600:1406:2e00:b02::170b:e825  audio-akp-quic-spotify-com.akamaized.net
 2408:8770:0:533:0:ff:b016:d542 yqall02.baidupcs.com
 2001:4860:4802:36::223         infinitedata-pa.googleapis.com
-2600:9000:285b:200:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2600:1408:ec00:88f::57         gameclipscontent-d2009.xboxlive.com
 2a04:4e42:600::774             is5-ssl.mzstatic.com
+2607:f8b0:4004:c1f::5e         www.googleapis.cn
 2600:1f18:297:ba0e:7900:f622:48a8:f266 spike.com
+2600:9000:27ce:5400:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
 2606:50c0:8002::153            training.github.com
+2600:1408:c400:5::17c7:372c    epicgames-download1.akamaized.net
+2607:f8b0:4004:c1d::5e         googlecn-lopri.l.google.com
 2606:4700:20::681a:2d6         ip2location.com
-2607:f8b0:4005:80b::200e       clientservices.googleapis.com
-2a04:4e42:400::774             is3-ssl.mzstatic.com
-2607:f8b0:4007:812::2003       services.googleapis.cn
+2600:9000:28a6:5a00:7:9bc5:8900:93a1 hulu.jp
+2607:f8b0:4004:c27::66         play-fe.googleapis.com
+2600:9000:2870:5400:1:7dd4:4340:93a1 ultimateota.d.miui.com
 2408:8726:3001:37b:0:ff:b00f:946b yqcu01.baidupcs.com
-2620:149:a00:f000::147         audio.itunes.apple.com
+2607:f8b0:4004:c19::8b         www3.l.google.com
 2a05:d018:76c:b680::de70       netflix.net
-2600:9000:234c:9200:1:7dd4:4340:93a1 superota.d.miui.com
-2600:1406:2e00:b02::170b:e832  assets1.xboxlive.cn
+2600:1408:ec00:1404::1735:b31  audio-akp-quic-spotify-com.akamaized.net
+2603:1063:2001:530::365:ff1    ocws.officeapps.live.com
 2408:8726:3001:37b:0:ff:b00f:946b yqcu02.baidupcs.com
+2600:1408:ec00:89c::4b36       c1-onenote-15.cdn.office.net
 2a06:98c1:3109::ac40:94f5      levelup.gitlab.com
+2600:1408:ec00:89d::4b36       c1-onenote-15.cdn.office.net
 2606:50c0:8000::153            customer-stories-feed.github.com
 2600:1901:1:7c5::              spclient.wg.spotify.com
-2001:4888:8039:10:308:20f:0:100 wo.vzwwo.com
 2606:4700:10::6814:182c        cwtv.com
 2620:106:e001:f00d::e7         pandora.com
-2603:1063:2001:630::365:ff1    ocws.officeapps.live.com
 2408:871a:2100:1356:0:ff:b028:9945 bdcu01.baidupcs.com
 2001:4860:4802:36::223         playstoregatewayadapter-pa.googleapis.com
 2408:871a:2100:1356:0:ff:b028:9945 bdcu02.baidupcs.com
 240e:bf:b802:19ad:0:ff:b024:cd93 xact01.baidupcs.com
 2600:1f18:631e:2f83::45        casting.prod.netflix.net
 2606:4700:7::a29f:8616         maxmind.com
+2600:1408:ec00:1408::1736:7fe4 thisis-images.scdn.co
 2a04:4e42:200::774             is1-ssl.mzstatic.com
 2600:1f18:297:ba24:b508:76de:f4a:df34 amctv.com
+2600:1f18:2148:bc01:966f:9b09:a8be:4ba5 registry-1.docker.io
 2600:1f18:297:ba18:6ddc:5d8f:6053:f003 amctv.com
+2600:9000:2032:5400:10:e3cf:3100:93a1 download.epicgames.com
 2600:1f18:2148:bc00:af99:6827:e8ce:d7df docker.io
-2607:f8b0:4005:817::200a       translate.googleapis.com
-2600:1f14:62a:de81::de70       www.nflxvideo.net
-2600:1406:2e00:b02::170b:e832  charts-images.scdn.co
 2001:4860:4802:34::223         play.googleapis.com
 2600:1f18:2148:bc02:bfe7:625b:d43:67ce registry-1.docker.io
 2a06:98c1:3109::ac40:94f5      packages.gitlab.com
-2600:1406:2e00:4ac::611        cdn.onenote.net
-2600:1406:2e00:b01::170b:e867  audio-akp-quic-spotify-com.akamaized.net
-2600:1406:2e00:b02::170b:e839  charts-images.scdn.co
-2600:1406:2e00:7aa::3b63       store-site-backend-static.ak.epicgames.com
-2600:1f18:2148:bc02:9dc8:ebe2:9835:2616 registry-1.docker.io
-2600:1406:2e00:b00::170b:e8ba  assets2.xboxlive.cn
-2600:1406:2e00:4d::172e:d85b   bigota.d.miui.com
+2600:1408:ec00:1400::1735:b65  audio-ak-spotify-com.akamaized.net
+2600:1408:5400:58f::20b6       aod-ssl.itunes.apple.com
 2600:1901:1:7c5::              wg.spotify.com
 2409:8c0c:310:3433:0:ff:b0ff:d75a yqcm07.baidupcs.com
-2620:149:a00:f000::131         aod.itunes.apple.com
-2607:f8b0:4023:2803::bc        alt1-mtalk.google.com
+2600:1408:ec00:1082::3b63      store-content.ak.epicgames.com
+2600:1f18:631e:2f82::de70      www.nflxvideo.net
+2600:9000:2870:a000:1:7dd4:4340:93a1 ultimateota.d.miui.com
 2600:1901:0:84f4::80           disneyjunior.com
+2600:1408:ec00:1402::1735:b4d  audio-ak-spotify-com.akamaized.net
 2606:50c0:8001::153            training.github.com
-2600:1406:2e00:b03::170b:e812  seeded-session-images.scdn.co
-2600:1406:2e00:b03::170b:e80c  seeded-session-images.scdn.co
+2600:9000:27ce:2200:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
 2001:4860:4802:38::223         geller-pa.googleapis.com
-2603:1063:24:103::365:7ea3     config.edge.skype.com
-2603:1063:2001:608::365:ff1    roaming.officeapps.live.com
 2600:1f14:62a:de80::de70       nflxvideo.net
 2408:871a:2100:1ade:0:ff:b04c:cefc bdcu01.baidupcs.com
 2600:1f18:631e:2f80::de70      netflix.net
+2600:1408:ec00:36::1736:7f29   easylist-downloads.adblockplus.org
 2606:50c0:8003::215            github.githubassets.com
-2607:1640:52::149              tlu.dl.delivery.mp.microsoft.com
 2620:1ec:33::11                edge.microsoft.com
-2600:1406:2e00:b03::170b:e80d  seeded-session-images.scdn.co
 2606:4700::6810:2fe7           npaa.pc.netflix.net
 240e:951:2c10:600::e           store.st.dl.eccdnx.com
 2600:1f18:297:ba0e:7900:f622:48a8:f266 mtv.com
-2600:1406:2e00:b02::170b:e835  assets2.xboxlive.cn
+2600:1f18:2148:bc02:140c:ddb2:637a:cdc2 registry-1.docker.io
 2408:8726:3001:b8a:0:ff:b073:3bcf yqcu02.baidupcs.com
-2600:1406:2e00:62::172e:d888   epicgames-download1.akamaized.net
 2606:50c0:8003::153            customer-stories-feed.github.com
-2607:f8b0:4003:c4a::bc         alt5.mobile-gtalk.l.google.com
+2600:9000:27ce:ac00:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
 2606:4700:10::6814:1ce8        iwara.tv
-2600:9000:2804:7400:10:e3cf:3100:93a1 download.epicgames.com
 2001:4860:4802:34::223         playstoregatewayadapter-pa.googleapis.com
 240e:bf:b802:1136:0:ff:b04f:ccfb bjbgp01.baidupcs.com
+2620:149:a0f:f100::2           aod.itunes.apple.com
 2606:4700:10::ac42:aaaa        www.iwara.tv
+2600:1408:5400:7::170c:9226    crl.t-mobile.com
 2a05:d018:76c:b684::de70       netflix.net
 240e:940:603:2:0:ff:b05f:15a   sdata.baidupcs.com
-2600:1406:2e00:b03::170b:e816  seeded-session-images.scdn.co
-2600:1406:2e00:492::611        cdn.onenote.net
 2001:4860:4802:32::223         infinitedata-pa.googleapis.com
 2606:4700:7::a29f:810b         ir.netflix.net
 2600:1f18:297:ba18:6ddc:5d8f:6053:f003 mtv.com
+2600:9000:286a:9a00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 2409:8c0c:310:3424:0:ff:b0cd:37dc yqall06.baidupcs.com
 2409:8c0c:310:3424:0:ff:b0cd:37dc yqall07.baidupcs.com
-2600:1406:2e00:b::6010:37a6    easylist-downloads.adblockplus.org
 2a04:4e42::774                 is2-ssl.mzstatic.com
 2001:4860:4802:36::223         translate-pa.googleapis.com
 2606:50c0:8002::154            media.githubusercontent.com
+2a04:4e42:56::774              is3-ssl.mzstatic.com
 2606:50c0:8001::154            avatars.githubusercontent.com
+2603:1030:40c:e::2             skydrive.wns.windows.com
+2600:1408:5400:1c::173d:b50    images-eds.xboxlive.com
 2a06:98c1:3109::ac40:94f5      customers.gitlab.com
 2001:4860:4802:38::223         content-autofill.googleapis.com
+2600:9000:28a6:ca00:7:9bc5:8900:93a1 hulu.jp
 2600:1f18:297:ba18:6ddc:5d8f:6053:f003 spike.com
 240e:bf:b802:19ad:0:ff:b024:cd93 xact02.baidupcs.com
 2a04:4e42:4e::760              dailymix-images.scdn.co
 2a04:4e42:4f::760              dailymix-images.scdn.co
-2607:f8b0:4005:816::200e       www3.l.google.com
-2603:1063:2001:62d::365:ff1    roaming.officeapps.live.com
+2a04:4e42:4f::684              msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+2600:1f18:631e:2f80::de70      www.nflxvideo.net
 240e:bf:b802:1136:0:ff:b04f:ccfb bjbgp02.baidupcs.com
-2600:9000:285b:8600:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2600:9000:2032:4600:10:e3cf:3100:93a1 download.epicgames.com
 2409:8c04:1001:1366:0:ff:b0ac:5106 bdcm02.baidupcs.com
 2606:50c0:8002::215            github.githubassets.com
-2600:9000:234c:8200:1:7dd4:4340:93a1 superota.d.miui.com
 2001:4860:4802:32::223         playstoregatewayadapter-pa.googleapis.com
 2606:50c0:8001::153            guides.github.com
-2600:1406:2e00:b01::170b:e874  thisis-images.scdn.co
 2409:8c70:3a91:16a:0:ff:b0ff:1421 xacm07.baidupcs.com
 2606:4700:10::6814:1ce8        i.iwara.tv
-2606:50c0:8002::153            archiveprogram.github.com
 2606:50c0:8001::153            archiveprogram.github.com
+2606:50c0:8002::153            archiveprogram.github.com
 2606:50c0:8003::153            archiveprogram.github.com
 2602:f79a::2                   msgstore.www.notion.so
 2606:50c0:8000::153            archiveprogram.github.com
 2600:1f18:631e:2f82::2c        casting.prod.netflix.net
 2001:4860:4802:36::223         geller-pa.googleapis.com
+2a04:4e42:77::644              deb.debian.org
 2606:50c0:8002::154            docs.github.com
-2600:1406:2e00:b::6010:37ad    easylist-downloads.adblockplus.org
+2600:9000:286a:d400:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 2600:1f18:297:ba18:6ddc:5d8f:6053:f003 sho.com
 2606:50c0:8001::153            pages.github.com
-2600:1406:2e00:62::172e:d89e   images-eds.xboxlive.com
+2620:1ec:bdf::40               acctcdn.msauth.net
 2600:1f14:62a:de82::de70       netflix.net
-2600:1406:2e00:b03::170b:e809  audio-ak-spotify-com.akamaized.net
+2600:9000:27ce:2a00:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
 2409:8c04:1001:13c4:0:ff:b044:b57d bdcm06.baidupcs.com
 2606:50c0:8002::154            avatars.githubusercontent.com
-2600:1406:2e00:b00::170b:e8a7  thisis-images.scdn.co
 2a06:98c1:3109::ac40:94f5      chef.gitlab.com
-2607:f8b0:4024:c0f::bc         alt7.mobile-gtalk.l.google.com
+2600:1f18:2148:bc00:ef99:ddb:b62a:7ff5 registry-1.docker.io
 2606:4700:7::a29f:8716         maxmind.com
 2600:1f18:631e:2f81::de70      netflix.net
+2a00:1450:4025:402::bc         alt5.mobile-gtalk.l.google.com
 2603:1063:2000:1::12           onenote.officeapps.live.com
+2600:1408:ec00:1402::1735:b4d  assets1.xboxlive.cn
+2600:1408:ec00:1402::1735:b4d  assets2.xboxlive.cn
 2606:4700:90:0:547e:1136:6ea4:7ef4 staging.gitlab.com
 240e:925:1001:508:0:ff:b002:b97d yqall07.baidupcs.com
-2600:1406:2e00:4d::172e:d85b   hugeota.d.miui.com
+2a04:4e42:4e::760              download.scdn.co
 2409:8c04:1001:10c3:0:ff:b09f:5fd9 bdcm06.baidupcs.com
+2600:1408:a:203::170f:383      i.scdn.co
+2603:1063:2001:52f::365:ff1    roaming.officeapps.live.com
 2606:4700:10::ac42:aaaa        i.iwara.tv
 2a04:4e42:4f::684              dl.delivery.mp.microsoft.com
+2600:1408:ec00:882::611        cdn.onenote.net
 2606:50c0:8000::154            docs.github.com
-2600:9000:24bc:7c00:7:9bc5:8900:93a1 hulu.jp
+2600:9000:2870:7800:1:7dd4:4340:93a1 ultimateota.d.miui.com
 2409:8c04:1001:1380:0:ff:b0c9:9706 bdcm02.baidupcs.com
 240e:93c:109:100::9d           dl.steam.clngaa.com
-2600:1406:2e00:8a9::57         images-eds-ssl.xboxlive.com
+2600:9000:27ce:dc00:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2607:f8b0:4004:c07::bc         mobile-gtalk.l.google.com
 2409:8c70:3a91:13c:0:ff:b0f1:64f6 appall01.baidupcs.com
 2600:1f18:2148:bc01:513a:3dbb:9b10:b70d docker.io
 2620:1ec:50::11                skyapi.onedrive.live.com
 2606:50c0:8002::153            pages.github.com
 2a04:4e42:4e::684              dl.delivery.mp.microsoft.com
 2606:50c0:8002::153            customer-stories-feed.github.com
-2600:9000:234c:6200:1:7dd4:4340:93a1 superota.d.miui.com
-2600:1406:2e00:62::172e:d89a   images-eds.xboxlive.com
+2600:1408:ec00:43::1737:b05b   xbl-smooth.xboxlive.com
+2a04:4e42:4f::760              download.scdn.co
 2606:50c0:8003::154            avatars.githubusercontent.com
-2600:1406:2e00:49c::57         gameclipscontent-d2009.xboxlive.com
+2600:9000:2870:2000:1:7dd4:4340:93a1 ultimateota.d.miui.com
 2606:4700::6810:32e7           npaa.pc.netflix.net
 2606:50c0:8001::154            user-images.githubusercontent.com
-2600:1406:2e00:b03::170b:e80a  misc.scdn.co
 2001:4860:4802:38::223         prod-lt-playstoregatewayadapter-pa.googleapis.com
-2603:1063:24:13a::365:7ea3     config.edge.skype.com
-2603:1030:a07:a::401           client.wns.windows.com
 2408:8770:0:6b3:0:ff:b0fe:e4eb bjbgp02.baidupcs.com
-2620:1ec:50::11                skydrivesync.policies.live.net
 240e:904:2800:115d:0:ff:b0f9:369d bdct02.baidupcs.com
-2600:1406:2e00:b01::170b:e874  i.scdn.co
 2001:4860:4802:32::223         translate-pa.googleapis.com
 2408:8770:0:545:0:ff:b0dc:f4a2 xacu06.baidupcs.com
 240e:925:1001:508:0:ff:b002:b97d yqall06.baidupcs.com
 2409:8c0c:310:34ec:0:ff:b0ad:e3d0 yqcm01.baidupcs.com
-2600:1406:2e00:4d::172e:d845   oneclient.sfx.ms
 2600:1f18:297:ba0e:7900:f622:48a8:f266 sho.com
+2600:1408:ec00:1406::1735:b0a  audio-akp-quic-spotify-com.akamaized.net
+2600:1408:5400:1c::173d:b31    ipv6.msftconnecttest.com
 2a04:4e42:400::774             is5-ssl.mzstatic.com
 2409:8c04:1001:1380:0:ff:b0c9:9706 bdcm01.baidupcs.com
-2600:1406:2e00:b02::170b:e83b  charts-images.scdn.co
-2600:1406:2e00:98d::2215       southpark.cc.com
 2a00:86c0:2091::1              codex.nflxext.com
 240e:951:2c10:600::10          st.dl.bscstorage.net
+2600:1408:ec00:140c::1736:7faa tlu.dl.delivery.mp.microsoft.com
 240e:925:1001:508:0:ff:b002:b97d yqct06.baidupcs.com
 2a04:4e42:4e::760              audio-fa.scdn.co
 2606:50c0:8001::153            customer-stories-feed.github.com
+2600:1408:ec00:1f::1735:23c5   bigota.d.miui.com
 2001:4860:4802:38::223         playstoregatewayadapter-pa.googleapis.com
 2602:f79a::1                   msgstore.www.notion.so
 2409:8c70:3a91:1d0:0:ff:b0a9:8ef0 yqall02.baidupcs.com
 240e:bf:b802:1f46:0:ff:b031:33fc yqct07.baidupcs.com
-2607:f8b0:4005:80a::200e       play-fe.googleapis.com
-2600:1f14:62a:de82::de70       www.nflxvideo.net
+2001:4888:8010:10:132:20f:0:100 wo.vzwwo.com
 2408:8770:0:6c5:0:ff:b0fd:22ce xacu07.baidupcs.com
+2603:1063:2001:520::365:ff1    roaming.officeapps.live.com
+2607:f8b0:4004:c0b::8b         clientservices.googleapis.com
 2409:8c0c:310:34fd:0:ff:b0e1:78c0 yqcm02.baidupcs.com
 2620:1ec:50::11                public.bn.files.1drv.com
-2600:9000:2804:ba00:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:234c:b400:1:7dd4:4340:93a1 superota.d.miui.com
 2606:50c0:8002::153            guides.github.com
-2600:9000:24bc:9800:7:9bc5:8900:93a1 hulu.jp
+2600:9000:27ce:8400:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2600:9000:2032:a000:10:e3cf:3100:93a1 download.epicgames.com
 2409:8c70:3a91:1ec:0:ff:b0d0:52fd xacm01.baidupcs.com
 2606:4700:10::6814:1ce8        www.iwara.tv
-2600:1406:2e00:b03::170b:e817  misc.scdn.co
 2408:8770:0:6b3:0:ff:b0fe:e4eb bjbgp01.baidupcs.com
-2600:1406:2e00:7a4::3b63       store-site-backend-static.ak.epicgames.com
+2600:9000:2870:400:1:7dd4:4340:93a1 ultimateota.d.miui.com
+2600:9000:28a6:3a00:7:9bc5:8900:93a1 hulu.jp
 2606:50c0:8000::215            github.githubassets.com
 240e:940:603:ee1:0:ff:b0ac:945f yqall01.baidupcs.com
 2600:1f18:297:ba0e:7900:f622:48a8:f266 amctv.com
-2600:1406:2e00:7aa::3b63       store-content.ak.epicgames.com
+2607:f8b0:4004:c27::8a         play-fe.googleapis.com
+2600:1408:ec00:889::57         images-eds-ssl.xboxlive.com
+2620:149:a10:f000::134         audio.itunes.apple.com
 2a00:86c0:2090::1              codex.nflxext.com
-2a04:4e42:200::644             deb.debian.org
 2606:50c0:8003::154            user-images.githubusercontent.com
-2600:1406:2e00:4a5::33c4       ae.nflximg.net
+2607:f8b0:4004:c27::71         play-fe.googleapis.com
 2606:4700:4404::6812:22ca      crunchyroll.com
-2607:f8b0:4023:c0d::bc         mobile-gtalk.l.google.com
-2600:1406:2e00:62::172e:d8a0   ipv6.msftconnecttest.com
+2603:1063:2001:522::365:ff1    roaming.officeapps.live.com
+2600:1408:ec00:1408::1736:7fe4 charts-images.scdn.co
 2606:4700::6812:24d            wsp6.three.com.hk
-2600:1406:2e00:4d::172e:d846   hugeota.d.miui.com
-2a04:4e42::644                 deb.debian.org
 2620:1ec:50::11                api.onedrive.com
-2600:1405:8400:13::17de:3e9    msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
-2600:9000:234c:f800:1:7dd4:4340:93a1 superota.d.miui.com
+2600:9000:286a:5a00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
+2600:1408:ec00:881::33c4       ae.nflximg.net
+2600:1408:5400:7::170c:9217    crl.t-mobile.com
 2600:1901:1:388::              gae-spclient.spotify.com
+2600:9000:28a6:4a00:7:9bc5:8900:93a1 hulu.jp
 2606:4700::6812:34d            wsp6.three.com.hk
 240e:940:603:17d9:0:ff:b086:60fd bdct06.baidupcs.com
 2408:8726:3001:b8a:0:ff:b073:3bcf yqcu01.baidupcs.com
 2001:4860:4802:36::223         play.googleapis.com
-2600:1406:2e00:1c::1743:2149   xbl-smooth.xboxlive.com
 2606:4700:3034::ac43:bf1c      easylist.to
-2a04:4e42:600::644             deb.debian.org
-2607:f8b0:4005:809::200e       translate.google.com
+2603:1030:40c:e::2             client.wns.windows.com
 240e:940:603:109:0:ff:b043:6435 yqall02.baidupcs.com
+2600:1408:c400:5::17c7:3727    epicgames-download1.akamaized.net
+2607:f8b0:4004:c0b::71         clientservices.googleapis.com
 2a04:4e42:600::774             is2-ssl.mzstatic.com
 2409:8c70:3a91:1ec:0:ff:b0d0:52fd xacm02.baidupcs.com
 2606:50c0:8003::153            training.github.com
-2600:9000:234b:8200:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
+2600:9000:28a6:f400:7:9bc5:8900:93a1 hulu.jp
 2600:1f18:297:ba24:b508:76de:f4a:df34 mtv.com
 2408:8770:0:52d:0:ff:b09a:83e1 appall02.baidupcs.com
-2600:1f18:2148:bc00:4449:4f87:cdc3:b923 registry-1.docker.io
-2600:1406:2e00:b00::170b:e8a7  assets2.xboxlive.cn
-2600:1406:2e00:b00::170b:e8b5  charts-images.scdn.co
+2600:9000:2032:5600:10:e3cf:3100:93a1 download.epicgames.com
 2602:f79a::2                   www.notion.so
-2a04:4e42::774                 is3-ssl.mzstatic.com
 2409:8c04:1001:1001:0:ff:b0df:34df sdata.baidupcs.com
 2408:8726:3001:b7e:0:ff:b09f:2d39 yqall07.baidupcs.com
+2600:1408:ec00:29b::2215       southpark.cc.com
 2408:871a:2100:1ade:0:ff:b04c:cefc bdcu02.baidupcs.com
-2600:1406:2e00:498::4b36       c1-onenote-15.cdn.office.net
-2607:f8b0:4023:c0d::bc         mtalk.google.com
+2607:f8b0:4004:c0b::5e         connectivitycheck.gstatic.cn
+2600:9000:286a:6200:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 240e:bf:b802:1f46:0:ff:b031:33fc xact07.baidupcs.com
-2600:1406:2e00:4d::172e:d846   bigota.d.miui.com
-2620:1ec:bdf::69               logincdn.msauth.net
-2600:1406:2e00:b02::170b:e83a  assets1.xboxlive.cn
-2a04:4e42:200::774             is3-ssl.mzstatic.com
-2600:1406:2e00:b02::170b:e830  assets1.xboxlive.cn
 2409:8c0c:310:34fd:0:ff:b0e1:78c0 yqcm01.baidupcs.com
-2600:9000:285b:3200:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
-2607:f8b0:4024:c0f::bc         alt7-mtalk.google.com
-2620:1ec:46::69                logincdn.msauth.net
+2600:1408:a:53::170f:34c       oneclient.sfx.ms
+2600:1408:ec00:1f::1735:23c5   hugeota.d.miui.com
+2a00:1450:4009:c0f::bc         alt3.mobile-gtalk.l.google.com
 2a04:4e42:4e::760              newjams-images.scdn.co
-2607:f8b0:4005:808::2003       connectivitycheck.gstatic.cn
-2607:1640:52::151              tlu.dl.delivery.mp.microsoft.com
+2607:f8b0:4004:c19::65         www3.l.google.com
+2600:9000:2032:4000:10:e3cf:3100:93a1 download.epicgames.com
 2600:1f18:297:ba0e:7900:f622:48a8:f266 cbs.com
-2600:387:f:705::1              epdg.epc.att.net
 2409:8c70:3a91:13e:0:ff:b0cb:4b7a xacm06.baidupcs.com
-2600:9000:24bc:8400:7:9bc5:8900:93a1 hulu.jp
-2600:1406:2e00:b02::170b:e831  assets1.xboxlive.cn
 2600:1f18:297:ba24:b508:76de:f4a:df34 cbs.com
 2606:4700:3032::6815:3c1f      easylist.to
-2600:1406:2e00:62::172e:d89a   ipv6.msftconnecttest.com
 2001:4860:4802:34::223         translate-pa.googleapis.com
 2600:1f18:631e:2f82::de70      netflix.net
+2600:9000:27ce:7000:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
 2001:4860:4802:32::223         geller-pa.googleapis.com
 2408:871a:2100:2f:0:ff:b0ae:139e sdata.baidupcs.com
-2600:9000:234c:3c00:1:7dd4:4340:93a1 superota.d.miui.com
-2600:1406:2e00:893::20b6       aod-ssl.itunes.apple.com
 2620:1ec:21::16                pipelines.actions.githubusercontent.com
+2600:1408:ec00:1404::1735:b29  charts-images.scdn.co
 2620:1ec:33:1::10              bing.com
+2600:9000:28a6:de00:7:9bc5:8900:93a1 hulu.jp
 2600:1f18:2148:bc02:7b61:4374:8305:6650 docker.io
 2600:1f18:2148:bc00:3a47:a497:e12f:311a registry-1.docker.io
-2607:f8b0:4023:2803::bc        alt1.mobile-gtalk.l.google.com
-2a04:4e42:a::760               download.scdn.co
 2001:4860:4802:38::223         firebaseinstallations.googleapis.com
+2607:f8b0:4004:c0b::66         clientservices.googleapis.com
 2606:50c0:8003::154            raw.github.com
-2603:1063:2001:625::365:ff1    ocws.officeapps.live.com
-2600:9000:234b:9800:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
+2800:3f0:4003:c0f::bc          alt1.mobile-gtalk.l.google.com
 2600:1f18:297:ba18:6ddc:5d8f:6053:f003 cbs.com
+2600:1408:ec00:29c::2215       southpark.cc.com
 2620:1ec:50::11                d.docs.live.net
 2408:8770:0:59d:0:ff:b006:dbec yqall01.baidupcs.com
 2a05:d018:76c:b685::de70       netflix.net
 2600:1f18:297:ba24:b508:76de:f4a:df34 spike.com
-2600:1406:2e00:491::57         gameclipscontent-d2009.xboxlive.com
+2600:1408:ec00:1408::1736:7fe4 misc.scdn.co
+2600:9000:2870:be00:1:7dd4:4340:93a1 ultimateota.d.miui.com
+2600:9000:2032:a400:10:e3cf:3100:93a1 download.epicgames.com
 2606:50c0:8003::154            media.githubusercontent.com
 2001:4860:4802:38::223         infinitedata-pa.googleapis.com
 2a04:4e42:200::774             is2-ssl.mzstatic.com
 2001:4860:4802:38::223         play.googleapis.com
-2603:1063:24:13c::             config.edge.skype.com
+2607:f8b0:4004:c27::8b         play-fe.googleapis.com
 2606:4700::6810:2ee7           npaa.pc.netflix.net
+2600:1408:ec00:1404::1735:b29  misc.scdn.co
 2a04:4e42::774                 is1-ssl.mzstatic.com
-2600:1406:2e00:b00::170b:e8af  assets1.xboxlive.cn
 2606:50c0:8002::154            raw.githubusercontent.com
-2600:1406:2e00:492::33c4       ae.nflximg.net
+2607:f8b0:4004:c25::66         translate.google.com
 2606:50c0:8000::153            training.github.com
 2606:50c0:8001::154            raw.githubusercontent.com
-2600:9000:24bc:fa00:7:9bc5:8900:93a1 hulu.jp
 2606:4700:10::ac42:a20b        cwtv.com
-2603:1063:2001:614::365:ff1    roaming.officeapps.live.com
-2600:9000:2804:ec00:10:e3cf:3100:93a1 download.epicgames.com
+2600:1408:ec00:89d::611        cdn.onenote.net
+2600:1408:ec00:1082::3b63      store-site-backend-static.ak.epicgames.com
 2408:8726:3001:b7e:0:ff:b09f:2d39 yqall06.baidupcs.com
 2606:50c0:8003::153            pages.github.com
+2600:9000:286a:f400:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 2600:1f18:631e:2f81::de70      nflxvideo.net
 2408:8726:3001:c9b:0:ff:b0a6:9673 yqcu07.baidupcs.com
 2409:8c70:3a91:127:0:ff:b0ea:c1db yqall01.baidupcs.com
-2600:1406:2e00:b00::170b:e8bb  assets2.xboxlive.cn
 240e:930:c300:c00::14          dl.steam.clngaa.com
-2600:1406:2e00:b01::170b:e86a  i.scdn.co
+2603:1063:2001:52f::365:ff1    ocws.officeapps.live.com
 2a00:86c0:2091::1              assets.nflxext.com
 2408:8756:c9f:1000::9d94:412e  d0.baidupcs.com
-2600:1406:2e00:b00::170b:e8b8  assets2.xboxlive.cn
-2600:9000:24bc:aa00:7:9bc5:8900:93a1 hulu.jp
 2606:4700:4406::6812:270b      packages.gitlab.com
 2606:4700:20::681a:3d6         ip2location.com
-2600:1406:2e00:4d::172e:d85b   oneclient.sfx.ms
+2600:1408:ec00:1408::1736:7fe4 seeded-session-images.scdn.co
+2001:4888:8019:10:1b4:20f:0:100 wo.vzwwo.com
 2409:8c70:3a91:130:0:ff:b0b9:df55 xacm02.baidupcs.com
 2001:4860:4802:36::223         content-autofill.googleapis.com
-2600:9000:285b:1000:1:9bd6:a680:93a1 abtest-api-data-sg.hoyoverse.com
+2620:1ec:bdf::40               logincdn.msauth.net
+2603:1063:2001:513::365:ff1    ocws.officeapps.live.com
+2600:9000:28a6:4000:7:9bc5:8900:93a1 hulu.jp
 2a04:4e42:400::774             is2-ssl.mzstatic.com
+2600:1408:5400:1c::173d:b40    ipv6.msftconnecttest.com
 2a04:4e42:200::774             is5-ssl.mzstatic.com
+2620:1ec:50::17                config.edge.skype.com
 2606:50c0:8000::154            media.githubusercontent.com
 2409:8c0c:310:34ec:0:ff:b0ad:e3d0 yqcm02.baidupcs.com
+2600:1408:5400:1c::173d:b38    images-eds.xboxlive.com
+2620:1ec:51::11                skydrivesync.policies.live.net
 2606:50c0:8003::154            docs.github.com
+2600:1408:ec00:88f::57         images-eds-ssl.xboxlive.com
+2600:9000:2032:9a00:10:e3cf:3100:93a1 download.epicgames.com
 2408:8726:3001:b7e:0:ff:b09f:2d39 yqcu06.baidupcs.com
-2600:1406:2e00:b03::170b:e815  misc.scdn.co
+2607:f8b0:4004:c25::8b         translate.google.com
+2620:1ec:48:1::40              www.onenote.com
 2409:8c70:3a91:130:0:ff:b0b9:df55 xacm01.baidupcs.com
 2a04:4e42::774                 is4-ssl.mzstatic.com
 2a04:4e42:600::774             is4-ssl.mzstatic.com
-2600:1406:2e00:b03::170b:e80a  i.scdn.co
 2001:4860:4802:32::223         play.googleapis.com
-2620:149:a00:f000::150         audio.itunes.apple.com
 240e:951:2c10:600::d           store.st.dl.eccdnx.com
 2001:4860:4802:34::223         infinitedata-pa.googleapis.com
-2001:4888:8061:10:604:20f:0:100 wo.vzwwo.com
 2606:4700::6810:30e7           npaa.pc.netflix.net
 2a04:4e42:600::774             is1-ssl.mzstatic.com
-2607:f8b0:4023:1015::bc        alt3.mobile-gtalk.l.google.com
 2a04:4e42:4f::760              newjams-images.scdn.co
-2603:1063:2001:63b::365:ff1    ocws.officeapps.live.com
-2600:9000:234b:6000:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
-2600:1406:2e00:7a4::3b63       store-content.ak.epicgames.com
 2001:4860:4802:32::223         prod-lt-playstoregatewayadapter-pa.googleapis.com
 2606:50c0:8001::154            docs.github.com
 240e:951:2c10:600::f           st.dl.bscstorage.net
+2607:f8b0:4004:c25::65         translate.google.com
 2600:1f18:631e:2f84::137       casting.prod.netflix.net
+2a00:1450:4025:402::bc         alt5-mtalk.google.com
 2a00:86c0:2090::1              assets.nflxext.com
-2600:1406:2e00:b00::170b:e8b6  charts-images.scdn.co
 240e:951:2c10:600::e           st.dl.bscstorage.net
-2600:1f18:2148:bc01:828:ea27:f997:48e3 registry-1.docker.io
 2606:50c0:8002::154            user-images.githubusercontent.com
 2603:1063:2000::12             onenote.officeapps.live.com
-2600:1406:2e00:b03::170b:e813  misc.scdn.co
-2600:1406:2e00:1c::1743:215c   xbl-smooth.xboxlive.com
-2600:1406:2e00:b00::170b:e8ba  thisis-images.scdn.co
-2603:1061:14:90::1             www.onenote.com
+2607:f8b0:4004:c23::77         play-lh.googleusercontent.com
+2600:1408:ec00:43::1737:b045   xbl-smooth.xboxlive.com
+2600:1408:ec00:36::1736:7f2c   easylist-downloads.adblockplus.org
+2607:f8b0:4004:c25::71         translate.google.com
 2001:4860:4802:32::223         firebaseinstallations.googleapis.com
 2409:8c04:1001:12c8:0:ff:b0af:e13e bdcm07.baidupcs.com
+2600:1408:ec00:1f::1735:23cc   hugeota.d.miui.com
 240e:904:2800:115d:0:ff:b0f9:369d bdct01.baidupcs.com
-2600:1406:2e00:62::172e:d885   epicgames-download1.akamaized.net
-2600:9000:24bc:7e00:7:9bc5:8900:93a1 hulu.jp
-2600:9000:2804:fa00:10:e3cf:3100:93a1 download.epicgames.com
+2607:f8b0:4004:c1b::5e         services.googleapis.cn
 2a04:4e42:4f::760              audio-fa.scdn.co
-2a04:4e42:400::644             deb.debian.org
-2607:f8b0:4023:1015::bc        alt3-mtalk.google.com
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
 ::1 localhost
 #@coolapk 1007
@@ -495,6 +481,48 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 ::1 ip6-localhost
 ::2 ip6-localhost
 ::3 ip6-localhost
+! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
+/^adsensor\./
+/^dwtrack\./
+/^domob\./
+||*-sdk.rum.aliyuncs.com^
+/^pingfore\./
+||*cdn-settings.appsflyersdk.com^
+/^adservice\./
+/^appsflyer\./
+/^guanggao\./
+/^adsage\./
+||*-ad-sign.byteimg.com^
+/^adsserving\./
+/^adwords\./
+/^supersonicads\./
+/^openx\./
+||*launches.appsflyersdk.com^
+/^socdm\./
+||*-datareceiver.aki-game.net^
+/^omniture\./
+/^zjtoolbar\./
+||*-ad.a.yximgs.com^
+/^adsmogo\./
+/^omgmta\./
+/^wlmonitor\./
+/^admaster\./
+||*stun.kugou.com^
+/^adsystem\./
+/^partnerad\./
+/^duomeng\./
+||*-default-cn.rum.aliyuncs.com^
+/^adsrvmedia\./
+||*-applog.fqnovel.com^
+||*two-gun-volley.pages.dev^
+/^omgmtaw\./
+/^admarvel\./
+||*adapt-beacon.awsprodops.movetv.com^
+/^applovin\./
+||*conversions.appsflyersdk.com^
+||*register.appsflyersdk.com^
+/^.+stat\.kugou\.com/
+||*.exaapi.com^
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 /^(\S+\.)?s?metrics\./
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
@@ -562,55 +590,6 @@ wykop.pl$badfilter
 ||*.libaishuo.com^
 -adx-*.rayjump.com^
 ://o0e.ru^
-.tvp.tv^
--s2s.sensic.net^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-.ay.delivery^
-://tru.am^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-.stape.net
-! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
-/^adsensor\./
-/^dwtrack\./
-/^domob\./
-||*-sdk.rum.aliyuncs.com^
-/^pingfore\./
-||*cdn-settings.appsflyersdk.com^
-/^adservice\./
-/^appsflyer\./
-/^guanggao\./
-/^adsage\./
-||*-ad-sign.byteimg.com^
-/^adsserving\./
-/^adwords\./
-/^supersonicads\./
-/^openx\./
-||*launches.appsflyersdk.com^
-/^socdm\./
-||*-datareceiver.aki-game.net^
-/^omniture\./
-/^zjtoolbar\./
-||*-ad.a.yximgs.com^
-/^adsmogo\./
-/^omgmta\./
-/^wlmonitor\./
-/^admaster\./
-||*stun.kugou.com^
-/^adsystem\./
-/^partnerad\./
-/^duomeng\./
-||*-default-cn.rum.aliyuncs.com^
-/^adsrvmedia\./
-||*-applog.fqnovel.com^
-||*two-gun-volley.pages.dev^
-/^omgmtaw\./
-/^admarvel\./
-||*adapt-beacon.awsprodops.movetv.com^
-/^applovin\./
-||*conversions.appsflyersdk.com^
-||*register.appsflyersdk.com^
-/^.+stat\.kugou\.com/
-||*.exaapi.com^
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@||click.appcast.io^|
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
@@ -620,6 +599,7 @@ wykop.pl$badfilter
 -events-collector.spot.im^
 -logsdk.kwai-pro.com^
 @@||intersport.peerius.com^|
+.tvp.tv^
 @@||ia.hit.interia.pl^|
 -attr.appsflyersdk.com^
 @@||cm-beacon.nakanohito.jp^|
@@ -635,6 +615,7 @@ wykop.pl$badfilter
 @@||cmp.inmobi.com^|
 @@||api.karte.io^|
 @@|affiliate.notion.so^|
+.stape.net
 @@||links.e.theatlantic.com^|
 @@||go.adjust.com^|
 @@||goto.walmart.com^|
@@ -719,6 +700,7 @@ wykop.pl$badfilter
 @@||awin1.com^|
 @@||email.*.skyeng.ru^|
 @@||links.getblueshift.com^|
+://tru.am^
 @@||log.mmstat.com^|
 @@|statcounter.com^|
 @@||redirect.appmetrica.yandex.com^|
@@ -757,6 +739,7 @@ wykop.pl$badfilter
 @@||radiofrance.targetspot.com^|
 .tovarro.com^
 @@|ads.adsterra.com^|
+-s2s.sensic.net^
 @@||api-v*.trbo.com^|
 @@||linka.page^|
 @@||c.office.com^|
@@ -788,6 +771,7 @@ wykop.pl$badfilter
 @@||unsubscribe.lhinsights.com^|
 @@||tags.crwdcntrl.net^|
 @@||clk*.tradedoubler.com^|
+.ay.delivery^
 @@||cloud.notification-naviextras.com^|
 ||clarity.ms^|
 @@||www.datadoghq-browser-agent.com^|
