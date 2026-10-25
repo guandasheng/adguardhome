@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-10-25 21:01:06
+! Last Modified: 2026-10-26 02:47:00
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -726,37 +726,8 @@ wykop.pl$badfilter
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 .stape.net
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-.1080.x.90.
-@@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
-://sportframe*.co^
--970x90-
--ads2.
--ads1.
--1300-x-200-
--cina777.
--ad123-
--iklan2.
--banner728x90.
--pentaslot.
-://say.ac^
--iklan-gif-
--1080x140-
--1080x140.
--bandarkiu.
--728x90a.
-://sportframe*.org^
-://r.reklam*.com^
--1080x180-
--728-x-90-
--728-x-90.
--iklan789-
--banner-ads.
--iklan1.
--ikln.
--indo666.
--tototix.gif
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@||click.appcast.io^|
+@@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 @@||cl.link-ag.net^|
 @@||go.scorptec.com.au^|
 @@||classliving.lpages.co^|
@@ -768,6 +739,9 @@ wykop.pl$badfilter
 @@||envato.market^|
 @@||click.trafficguard.ai^|
 @@||thumbnail.thench.net^|
+-pentaslot.
+://say.ac^
+-iklan-gif-
 @@||cmp.inmobi.com^|
 @@||api.karte.io^|
 @@|affiliate.notion.so^|
@@ -778,6 +752,7 @@ wykop.pl$badfilter
 @@||vcentry3.valuecommerce.ne.jp^|
 @@|cdn.taboola.com^|
 @@||forum.notebookreview.com^|
+-indo666.
 @@||f-gear.ec-optimizer.com^|
 @@||infra-api.newrelic.com^|
 @@||href.li^|
@@ -787,6 +762,7 @@ wykop.pl$badfilter
 @@|beta.publishers.adsterra.com^|
 @@||ssai.aniview.com^|
 @@||cs.silverpop.com^|
+-1300-x-200-
 @@||hidive.com^|
 @@||cdn.duurzaam.greenchoice.nl^|
 @@||stash.roistat.com^|
@@ -798,9 +774,12 @@ wykop.pl$badfilter
 @@||remembering.ca^|
 @@||leechers-paradise.org^|
 @@||www.googleadservices.com^|
+-1080x140-
+-1080x140.
 @@||tr.rdrtr.com^|
 @@||brm-core-*.brsrvr.com^|
 @@||get.neofinancial.com^|
+://sportframe*.org^
 @@||crm-cdn.peek-cloppenburg.com^|
 @@||taiga.maven.io^|
 @@||obituaries.startribune.com^|
@@ -817,14 +796,18 @@ wykop.pl$badfilter
 @@||ap01.records.in.treasuredata.com^|
 @@||sbs.demdex.net^|
 @@||netatmo.commander1.com^|
+-ads2.
+-ads1.
 @@||support-widget.nakanohito.jp^|
 @@|beta.affiliates.adsterra.com^|
 @@||news.warhammer.com^|
 @@||www.statcounter.com^|
+-banner728x90.
 @@||oa.tr.line.me^|
 @@|help-advertisers.adsterra.com^|
 @@||api.docodoco.jp^|
 @@||obituaries.therecord.com^|
+-bandarkiu.
 @@||my.tealiumiq.com^|
 @@||sedge.nfl.com^|
 @@||admin.dable.io^|
@@ -834,6 +817,7 @@ wykop.pl$badfilter
 @@||5471782.fls.doubleclick.net^|
 @@||artifactory.appodeal.com^|
 @@||email.procook.co.uk^|
+-ikln.
 @@||daikoku.ebis.ne.jp^|
 @@||a.adwolf.ru^|
 @@||awin1.com^|
@@ -845,6 +829,7 @@ wykop.pl$badfilter
 @@||e.customeriomail.com^|
 @@||email.awscloud.com^|
 @@||cindyholbrook.lpages.co^|
+-ad123-
 @@||link.nzz.ch^|
 @@||static-v*.trbo.com^|
 @@||data.notify.macys.com^|
@@ -852,17 +837,21 @@ wykop.pl$badfilter
 @@||home.focusatwill.com^|
 @@||app.adjust.com^|
 @@||grp07.ias.rakuten.co.jp^|
+-728x90a.
 @@||acs-m.daraz.com.bd^|
 @@||link.meet5.net^|
 @@|core.crazyegg.com^|
 @@||aax-fe.amazon.co.jp^|
 @@||bcicl.*.evergage.com^|
 @@||id.i2i.jp^|
+-banner-ads.
 @@||emails.educause.edu^|
 @@||track.rutarget.ru^|
+://sportframe*.co^
 @@||catchup.thisisdax.com^|
 @@||cj.dotomi.com^|
 @@||gs.statcounter.com^|
+-970x90-
 @@||login.sendpulse.com^|
 @@||click.virt.exacttarget.com^|
 @@||link.morningbrew.com^|
@@ -875,6 +864,7 @@ wykop.pl$badfilter
 @@||nineto5mac-d.openx.net^|
 @@||click.avs.io^|
 @@||click.virt.s*.exacttarget.com^|
+://r.reklam*.com^
 @@||px.a8.net^|
 @@||torimochi.line-apps.com^|
 @@||hb.afl.rakuten.co.jp^|
@@ -883,9 +873,12 @@ wykop.pl$badfilter
 @@||partner.o2online.de^|
 @@|ezodn.com^|
 @@||vcentry2.valuecommerce.ne.jp^|
+-iklan789-
 @@||str.hit.gemius.pl^|
 @@|beta.partners.adsterra.com^|
 @@||ref.rbauction.com^|
+-tototix.gif
+.1080.x.90.
 @@|www.daraz.pk^|
 @@||sponsor.nitropay.com^|
 @@||logentries.com^|
@@ -893,15 +886,18 @@ wykop.pl$badfilter
 @@||acs-m.daraz.pk^|
 @@||unsubscribe.lhinsights.com^|
 @@||tags.crwdcntrl.net^|
+-cina777.
 @@||clk*.tradedoubler.com^|
 @@||cloud.notification-naviextras.com^|
 @@||www.datadoghq-browser-agent.com^|
 @@||data.digital.costco.ca^|
 @@||support-beacon.nakanohito.jp^|
+-iklan2.
 @@||spartaindependent.com^|
 @@||email.elitedangerous.com^|
 @@||app.appsflyer.com^|
 @@||anwb.webpower.eu^|
+-1080x180-
 @@||gate.first-id.fr^|
 @@||tms.capitalone.com^|
 @@||secureimage.securedataimages.com^|
@@ -910,6 +906,7 @@ wykop.pl$badfilter
 @@||cdn.us*.exponea.com^|
 @@|publishers.adsterra.com^|
 @@||action.metaffiliation.com^|
+-iklan1.
 @@||swasc.homedepot.com^|
 @@||cm-widget.nakanohito.jp^|
 @@||afi-b.com^|
@@ -945,6 +942,8 @@ wykop.pl$badfilter
 @@||79423.analytics.edgekey.net^|
 @@||tlh.gedidigital.it^|
 @@||pagead.l.doubleclick.net^|
+-728-x-90-
+-728-x-90.
 @@||www.dogpile.com^|
 @@||used.ca^|
 @@||click.cptrack.de^|
@@ -955,6 +954,19 @@ wykop.pl$badfilter
 @@|app.crazyegg.com^|
 @@||goto.target.com^|
 @@||sax.sina.com.cn^|
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
+@@://maven.*.top^
+||ubuntu.org^$denyallow=you-were-likely-looking-for-ubuntu.com
+@@://pyrofork.*.top^
+||*serror*.wo.com.cn^
+||arc.msn.com^$ctag=~device_pc|~os_windows
+@@/^.*(tech|project|linux).*\.top$/
+||wix.cm^$denyallow=malware-typo-squatter-of-wix.com
+@@://blog.*.top^
+/^(https?|tcp|iquic)://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/
+||snapchat.cm^$denyallow=malware-typo-squatter-of-snapchat.com
+||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|yggleak.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top|hedon-haven.top|outlands.top|tk-web.top|qpmegathread.top|qmk.top|mgytr.top|girlskissing.top|luxferre.top|adderly.top|supremecloud.top|cldev.top|medoed.top|tooru.top|wodepa.top|rank.top|vino.top
+||speedtest.com^$denyallow=you-were-likely-looking-for-speedtest.net
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 *skobutikks.com^
 *.zoomino.
@@ -978,7 +990,6 @@ wykop.pl$badfilter
 *.keyyou.
 /^196\.245\.52\.[12]?\d?\d$/
 *.qling.
-||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|yggleak.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top|hedon-haven.top|outlands.top|tk-web.top|qpmegathread.top|qmk.top|mgytr.top|girlskissing.top|luxferre.top|adderly.top|supremecloud.top|cldev.top|medoed.top|tooru.top|wodepa.top|rank.top|vino.top
 *.yebai.
 /^(.*\.|.*//)?linebet\d{5,}[a-z]\.com(/.*)?$/
 *.jinzhao99.
@@ -1008,7 +1019,6 @@ wykop.pl$badfilter
 *robux*robux*.blogspot.com^
 .wap.x4399.com^
 ://ads-img2026.
-||*serror*.wo.com.cn^
 /^178\.253\.47\.[12]?\d?\d$/
 *sneakersdkshop.com^
 ://ww26.$denyallow=ww26.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
@@ -1031,13 +1041,10 @@ wykop.pl$badfilter
 /^172\.255\.6\.(\d\d?|(17?|2)[0-689]\d)$/
 *.cnnetallyads.
 *.wan789.
-||arc.msn.com^$ctag=~device_pc|~os_windows
 ://ww40.
 ://ww18.$denyallow=ww18.autotask.net|ww18.pornhoarder.tv|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-||wix.cm^$denyallow=malware-typo-squatter-of-wix.com
 *.9bcpm.
 .file-downloads.outbound-links.js
-||ubuntu.org^$denyallow=you-were-likely-looking-for-ubuntu.com
 -1321533417.cos.
 /^139\.45\.197\.[12]?\d?\d$/
 *.xian.cm.
@@ -1106,7 +1113,6 @@ wykop.pl$badfilter
 /^104\.160\.10\.[12]?\d?\d$/
 *.pv-indexurl.
 *.9ecpm.
-||snapchat.cm^$denyallow=malware-typo-squatter-of-snapchat.com
 ://ww5.$denyallow=ww5.ikea.com|ww5.msu.ac.zw|ww5.autotask.net|ww5.pornhoarder.tv
 *.hosting24.
 *.ubcpm.
@@ -1124,7 +1130,6 @@ wykop.pl$badfilter
 *.myiee.
 /^31\.184\.20[0-3]\.\d{1,3}$/
 ://ww27.$denyallow=ww27.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-@@://pyrofork.*.top^
 *.na7.
 /^(.*://)?204\.11\.56\.\d{1,3}(/.*)?$/
 *factoryoutletcanada.
@@ -1188,7 +1193,6 @@ wykop.pl$badfilter
 .m.qiuwu.net^
 *.9dcpm.
 *.jugao.
-||speedtest.com^$denyallow=you-were-likely-looking-for-speedtest.net
 -720x90.
 -720x90-
 -300x600.
@@ -1205,7 +1209,6 @@ wykop.pl$badfilter
 ://segment-cdn.
 *.bmgad.
 -tracking-pixel.
-@@://blog.*.top^
 ://ww39.
 -600x70.
 *shoesoutletonline.
@@ -1246,7 +1249,6 @@ wykop.pl$badfilter
 ://ww22.$denyallow=ww22.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww49.
 *.soua.
-@@://maven.*.top^
 ://ww37.
 *.cssyouxi.
 /^((https?|tcp|iquic)://)?\d\d?\.[a-z0-9-]{1,}\.biz(/.*)?$/
@@ -1320,7 +1322,6 @@ wykop.pl$badfilter
 *.jzunion.
 .m.gxwztv.com^
 ://46.161.31.
-@@/^.*(tech|project|linux).*\.top$/
 *.jasd.
 *usafactoryoutlet.com^
 *.gyy1314.
@@ -1394,7 +1395,6 @@ wykop.pl$badfilter
 *norgesalg.com^
 .gatracking.js
 *norgesalgs.com^
-/^(https?|tcp|iquic)://(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\d{2,8}\.[a-z-]{5,22}\d{1,8}\.(icu|life|live).*$/
 ://openedlog.
 *.jixing1.
 /^192\.243\.61\.[12]?\d?\d$/
