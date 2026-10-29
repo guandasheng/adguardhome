@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: hosts.txt
-! Last Modified: 2026-10-29 23:00:42
+! Last Modified: 2026-10-30 04:55:59
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
 0.0.0.0 mobile.adsafeprotected.com
@@ -1804,6 +1804,7 @@
 0.0.0.0 ad.epochtimes.com
 0.0.0.0 ad-411.com
 0.0.0.0 ads48.console.adtarget.com.tr
+0.0.0.0 stats.ipinyou.com
 0.0.0.0 ad.xdomain.ne.jp
 0.0.0.0 ads.layer-ad.org
 0.0.0.0 11gtest.bj2cu.u3.ucweb.com
@@ -2057,7 +2058,6 @@
 0.0.0.0 api.aixifan.com
 0.0.0.0 ids.ad.gt
 0.0.0.0 s26.cnzz.com
-0.0.0.0 advolink.org
 0.0.0.0 advisionweb.yicha.jp
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 5726.bapi.adsafeprotected.com
@@ -2517,7 +2517,6 @@
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 edgexads.com
 0.0.0.0 ads.canalblog.com
-0.0.0.0 pratolivodonna-click.pages.dev
 0.0.0.0 down141.mclick.mobi
 0.0.0.0 19gtest.bj2cu.u3.ucweb.com
 0.0.0.0 popads.ero-advertising.com
@@ -2882,6 +2881,7 @@
 0.0.0.0 ad.broadstreetads.com
 0.0.0.0 gcirm.honoluluadvertiser.gcion.com
 0.0.0.0 ad46digital.checkm8.com
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 ads.albawaba.com
 0.0.0.0 finzy5-ad51.sbs
 0.0.0.0 ad.bannerbank.ru
@@ -3610,7 +3610,6 @@
 0.0.0.0 dlads.cn
 0.0.0.0 ad.groupon.co.uk
 0.0.0.0 download.uc.cn
-0.0.0.0 share.dropstab-trust.com
 0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 analytics.localytics.com
 0.0.0.0 adverts.creativemark.co.uk
@@ -6291,6 +6290,7 @@
 0.0.0.0 adserver.lostreality.com
 0.0.0.0 e-zlsdk.1rtb.net
 0.0.0.0 adbehavior.ximalaya.com
+0.0.0.0 stats.guess.tf.360.cn
 0.0.0.0 juicy-pubg.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 ade.tanx.com
@@ -6362,7 +6362,6 @@
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 app.slimads.vn
 0.0.0.0 api-mcp.adsp.xunlei.com
-0.0.0.0 pro-aiapp-plsolution.com
 0.0.0.0 fapi.xdrun.com
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 icon.cnzz.com
@@ -6839,6 +6838,7 @@
 0.0.0.0 ad.turn.com
 0.0.0.0 pr.analytics.console.aws.a2z.com
 0.0.0.0 gecko-hl.snssdk.com
+0.0.0.0 deltanzio-pro-760.com
 0.0.0.0 183.61.170.21
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 adv.anhsangvacuocsong.vn
@@ -8214,7 +8214,6 @@
 0.0.0.0 ads.reklamlar.net
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 engineering.adsplay.net
-0.0.0.0 liveflashdaily.pro
 0.0.0.0 adsload.co
 0.0.0.0 ad.native-ad.net
 0.0.0.0 corp.sohu.com
@@ -9391,6 +9390,7 @@
 0.0.0.0 api.domob.cn
 0.0.0.0 click.adv.livedoor.com
 0.0.0.0 adv.admeme.net
+0.0.0.0 confirmation-advanced-reserv538926.com
 0.0.0.0 cpc.click.alimama.com
 0.0.0.0 click.infoblox.com
 0.0.0.0 analytics.greenmountainenergy.com
@@ -11311,6 +11311,7 @@
 0.0.0.0 y0.extreme-dm.com
 0.0.0.0 tracking.adstrategysites.com
 0.0.0.0 ww135.smartadserver.com
+0.0.0.0 www.deltanzio-pro-760.com
 0.0.0.0 tran.mediav.com
 0.0.0.0 vs22.gzct.u3.ucweb.com
 0.0.0.0 ww3050.smartadserver.com
@@ -11626,7 +11627,6 @@
 0.0.0.0 www.adserver.janes.net
 0.0.0.0 www.habyzuo.pro
 0.0.0.0 worker21.advertnative.com
-0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 www.ryqixio.pro
 0.0.0.0 www.deta.ero-advertising.com
 0.0.0.0 track.xapads.com
@@ -11868,7 +11868,6 @@
 0.0.0.0 www.lorvian.pro
 0.0.0.0 www.cloudstackix.pro
 0.0.0.0 www.phpmyadmin.ero-advertising.com
-0.0.0.0 www.advolink.org
 0.0.0.0 xn--pan-ei18e.xn--baidu-jm6h.com
 0.0.0.0 tk.toponadss.com
 0.0.0.0 www.jizzads.com
@@ -12150,7 +12149,6 @@
 0.0.0.0 xadsmartgetbes.datads.cn
 0.0.0.0 www.firstclick.pro
 0.0.0.0 uc.atwola.com
-0.0.0.0 www.share.dropstab-trust.com
 0.0.0.0 wrontonshatbona.pro
 0.0.0.0 syndication.advertiserurl.com
 0.0.0.0 tag.admaster.com.cn
@@ -12172,7 +12170,6 @@
 0.0.0.0 www.advancedsoftwaresupport.com
 0.0.0.0 www.sponsorads.de
 0.0.0.0 tt11.adobe.com
-0.0.0.0 www.pratolivodonna-click.pages.dev
 0.0.0.0 uswdirect.adsrvr.org
 0.0.0.0 www.adspeed.com
 0.0.0.0 www.altiorainvest-pro.pages.dev
@@ -12459,13 +12456,11 @@
 0.0.0.0 www.ads.proc.cc
 0.0.0.0 unionsug.baidu.com
 0.0.0.0 test.zeus.ad.xiaomi.com
-0.0.0.0 stats.guess.tf.360.cn
 0.0.0.0 xmadsapi.codon.vn
 0.0.0.0 www.rytofyy.pro
 0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 www.pflexads.com
 0.0.0.0 stats.pflexads.com
-0.0.0.0 www.pro-aiapp-plsolution.com
 0.0.0.0 www.wavestatix-fr.pro
 0.0.0.0 toolbar.baidu.com
 0.0.0.0 www.360ads.com
@@ -12750,7 +12745,6 @@
 0.0.0.0 www.finsy2-ad81.cyou
 0.0.0.0 www.fuhypii.pro
 0.0.0.0 www.valuezone-click.pages.dev
-0.0.0.0 www.liveflashdaily.pro
 0.0.0.0 sy.flash.mytanwan.com
 0.0.0.0 www.es.ero-advertising.com
 0.0.0.0 yj.p.adnxs.com
@@ -12928,6 +12922,7 @@
 0.0.0.0 v12.cnzz.com
 0.0.0.0 vs14.bj2ct.u3.ucweb.com
 0.0.0.0 w9.gskwai.com
+0.0.0.0 www.confirmation-advanced-reserv538926.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 vs11.bj2.u3.ucweb.com
@@ -12988,7 +12983,6 @@
 0.0.0.0 trace.ledu.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 www.wws.ero-advertising.com
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 www.gatoradvertisinginformationnetwork.com
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 www.daea.ero-advertising.com
