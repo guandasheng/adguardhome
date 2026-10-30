@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-10-30 12:54:07
+! Last Modified: 2026-10-30 22:54:09
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -45,13 +45,6 @@
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?pixels?\./
 ||*-analytics*.huami.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
-::1 localhost
-#@coolapk 1007
-::1 ip6-loopback
-::1 ip6-localhost
-::2 ip6-localhost
-::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt)
 2001:4860:4846:400::           geller-pa.googleapis.com
 2607:f8b0:4001:c68::64         www3.l.google.com
@@ -594,94 +587,13 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2603:1063:2001:215::365:ff1    ocws.officeapps.live.com
 2a00:1450:400b:c02::bc         alt5-mtalk.google.com
 2620:149:a23:f000::150         is4-ssl.mzstatic.com
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-.n.2.1.js^
-/^(a|c)\.[0-9a-f]{56}\.com$/
-||linksprf.com^$badfilter
-||fixtures.onet.pl^$badfilter
-.n.2.1.l60.js^
-://*.a-akamaihd.com^
-://mine.torrent.pw^
--events-collector.spot.im^
-.1.1.1.l80.js^
-://jhf.ru^
-/^139\.45\.19[5-7]\.\d{1,3}/
--adx-*.rayjump.com^
-.tovarro.com^
-://r.i.ua^
--telemetry.officeapps.live.com.mcas.ms^
-.bbelements.com^
-/^139\.45\.197\.2(4[0-9]|5[0-4])/
-.doublepimp.com^
-://kma.biz^
-.libaishuo.com^
--telemetry.officeapps.live.com^
-/193.200.64.24:/
-.cpa1.ru^
-.tpm.pw^
-/62.76.25.2(7|8)/
-.gameleads.ru^
-.prod.pr.analytics.console.aws.a2z.com
-.piccash.net^
-.webhop.net^
-/^139\.45\.197\.2(4[0-9]|5[0-4]):/
-.3.n.2.2.l30.js
-.3.n.2.1.l50.js
-/^94\.242\.247\.(2[0-9]|3[0-2]):/
-/^23\.109\.170\.(18[7-9]|19[0-2])$/
-wykop.pl$badfilter
-.is.traff-numerical.info^
-.potopy.ru^
-/^88\.208\.22\.[1234]:/
-/^94\.242\.247\.(2[0-9]|3[0-2])/
-/^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
-.infox.sg^
-.allalla.com^
-/^88\.208\.22\.[1234]$/
-/^142\.91\.159\.(1[5-9]\d|2[0-4]\d|250):(80|443)$/
-||tn.porngo.xxx^$badfilter
-|c.blue.*.com^|
--tracker.biliapi.net^
-.sexplaycam.com^
-/^188\.42\.84\.\d{1,3}/
-*ad.durasite.net^
-.ecommtools.com^
-.adonweb.ru^
-://o0e.ru^
--upaas.ucweb.com^
-.vipko.ru^
-/^23\.109\.73\.\d{3}/
-####################################################################################
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
--skadsdkless.appsflyersdk.com^
--spiky.clevertap-prod.com^
--logsdk.kwai-pro.com^
-.tvp.tv^
-://tru.am^
--attr.appsflyersdk.com^
--ulogl2.kwai-pro.com^
--datareceiver.aki-game.net^
--ulog-*.kwaipros.com^
--ulog.*.kwai-pro.com^
--ulogl2.kwaipros.com^
-.ay.delivery^
--ulog.kwaipros.com^
-||clarity.ms^|
--ulog.*.kwaipros.com^
--pia.appsflyersdk.com^
--ulog.region.kwai-pro.com^
--s2s.sensic.net^
--ulog.kwai-pro.com^
--adrevenue.appsflyersdk.com^
--ulog-*.kwai-pro.com^
--ulog.ksapisrv.com^
-/^anon1.gt\d{6}.com$/
-/^https:\/\/anon1.gt\d{6}.com/
--applog*.fqnovel.com^
--client-report.honkaiimpact3.com^
--ulogl*.kwai-pro.com^
-.skadsdkless.appsflyersdk.com^
--rtb.gravite.net^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
+::1 localhost
+#@coolapk 1007
+::1 ip6-loopback
+::1 ip6-localhost
+::2 ip6-localhost
+::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 /^adsensor\./
 /^dwtrack\./
@@ -724,6 +636,93 @@ wykop.pl$badfilter
 ||*register.appsflyersdk.com^
 /^.+stat\.kugou\.com/
 ||*.exaapi.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
+-skadsdkless.appsflyersdk.com^
+.n.2.1.js^
+/^(a|c)\.[0-9a-f]{56}\.com$/
+||linksprf.com^$badfilter
+||fixtures.onet.pl^$badfilter
+.n.2.1.l60.js^
+://*.a-akamaihd.com^
+://mine.torrent.pw^
+-events-collector.spot.im^
+-logsdk.kwai-pro.com^
+.1.1.1.l80.js^
+.tvp.tv^
+-attr.appsflyersdk.com^
+-ulogl2.kwai-pro.com^
+://jhf.ru^
+-datareceiver.aki-game.net^
+-ulogl2.kwaipros.com^
+/^139\.45\.19[5-7]\.\d{1,3}/
+-adx-*.rayjump.com^
+-ulog.kwaipros.com^
+.tovarro.com^
+://r.i.ua^
+-ulog.*.kwaipros.com^
+-pia.appsflyersdk.com^
+-ulog.region.kwai-pro.com^
+-s2s.sensic.net^
+-telemetry.officeapps.live.com.mcas.ms^
+.bbelements.com^
+-ulog-*.kwai-pro.com^
+/^139\.45\.197\.2(4[0-9]|5[0-4])/
+/^anon1.gt\d{6}.com$/
+.doublepimp.com^
+-client-report.honkaiimpact3.com^
+://kma.biz^
+.libaishuo.com^
+-telemetry.officeapps.live.com^
+/193.200.64.24:/
+.cpa1.ru^
+.tpm.pw^
+-rtb.gravite.net^
+/62.76.25.2(7|8)/
+.gameleads.ru^
+.prod.pr.analytics.console.aws.a2z.com
+.piccash.net^
+-spiky.clevertap-prod.com^
+.webhop.net^
+/^139\.45\.197\.2(4[0-9]|5[0-4]):/
+://tru.am^
+.3.n.2.2.l30.js
+.3.n.2.1.l50.js
+/^94\.242\.247\.(2[0-9]|3[0-2]):/
+-ulog-*.kwaipros.com^
+/^23\.109\.170\.(18[7-9]|19[0-2])$/
+-ulog.*.kwai-pro.com^
+wykop.pl$badfilter
+.ay.delivery^
+.is.traff-numerical.info^
+||clarity.ms^|
+.potopy.ru^
+-ulog.kwai-pro.com^
+/^88\.208\.22\.[1234]:/
+/^94\.242\.247\.(2[0-9]|3[0-2])/
+/^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
+-adrevenue.appsflyersdk.com^
+-ulog.ksapisrv.com^
+.infox.sg^
+.allalla.com^
+/^88\.208\.22\.[1234]$/
+/^142\.91\.159\.(1[5-9]\d|2[0-4]\d|250):(80|443)$/
+/^https:\/\/anon1.gt\d{6}.com/
+||tn.porngo.xxx^$badfilter
+-applog*.fqnovel.com^
+|c.blue.*.com^|
+-ulogl*.kwai-pro.com^
+-tracker.biliapi.net^
+.sexplaycam.com^
+.skadsdkless.appsflyersdk.com^
+/^188\.42\.84\.\d{1,3}/
+*ad.durasite.net^
+.ecommtools.com^
+.adonweb.ru^
+://o0e.ru^
+-upaas.ucweb.com^
+.vipko.ru^
+/^23\.109\.73\.\d{3}/
+####################################################################################
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 .stape.net
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
@@ -1001,7 +1000,6 @@ wykop.pl$badfilter
 -160-600.
 /^https://[a-z]{1,}-gitcoin\.com/?$/
 *.gtrxm.
--gdpr-min.js^
 /^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
 *.tjq.
 .m.kanshuzw.com^
@@ -1201,7 +1199,6 @@ wykop.pl$badfilter
 *norgestores.com^
 ://ww46.
 ://ww34.
-.cookiehub.eu
 ://adsbb.
 *.uu01.
 ://segment-cdn.
