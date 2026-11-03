@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-11-03 01:58:15
+! Last Modified: 2026-11-03 13:49:04
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -549,13 +549,6 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2603:1063:2001:215::365:ff1    ocws.officeapps.live.com
 2a00:1450:400b:c02::bc         alt5-mtalk.google.com
 2620:149:a23:f000::150         is4-ssl.mzstatic.com
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
-::1 localhost
-#@coolapk 1007
-::1 ip6-loopback
-::1 ip6-localhost
-::2 ip6-localhost
-::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 /^(\S+\.)?s?metrics\./
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
@@ -594,6 +587,13 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?pixels?\./
 ||*-analytics*.huami.com^
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
+::1 localhost
+#@coolapk 1007
+::1 ip6-loopback
+::1 ip6-localhost
+::2 ip6-localhost
+::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 /^adsensor\./
 /^dwtrack\./
@@ -754,6 +754,7 @@ wykop.pl$badfilter
 -indo666.
 @@||f-gear.ec-optimizer.com^|
 @@||infra-api.newrelic.com^|
+@@||href.li^|
 @@||proto2ad.durasite.net^|
 @@||learn.khanacademy.org^|
 @@||data.orders.costco.com^|
@@ -812,6 +813,7 @@ wykop.pl$badfilter
 @@||ma135-r.analytics.edgekey.net^|
 @@||om-ssl.consorsbank.de^|
 @@||official.paymaya.com^|
+@@||5471782.fls.doubleclick.net^|
 @@||artifactory.appodeal.com^|
 @@||email.procook.co.uk^|
 -ikln.
@@ -843,6 +845,7 @@ wykop.pl$badfilter
 @@||id.i2i.jp^|
 -banner-ads.
 @@||emails.educause.edu^|
+@@||track.rutarget.ru^|
 ://sportframe*.co^
 @@||catchup.thisisdax.com^|
 @@||cj.dotomi.com^|
@@ -870,6 +873,7 @@ wykop.pl$badfilter
 @@|ezodn.com^|
 @@||vcentry2.valuecommerce.ne.jp^|
 -iklan789-
+@@||str.hit.gemius.pl^|
 @@|beta.partners.adsterra.com^|
 @@||ref.rbauction.com^|
 -tototix.gif
@@ -882,6 +886,7 @@ wykop.pl$badfilter
 @@||unsubscribe.lhinsights.com^|
 @@||tags.crwdcntrl.net^|
 -cina777.
+@@||clk*.tradedoubler.com^|
 @@||cloud.notification-naviextras.com^|
 @@||www.datadoghq-browser-agent.com^|
 @@||data.digital.costco.ca^|
@@ -930,6 +935,7 @@ wykop.pl$badfilter
 @@|daraz.com^|
 @@||data.digital.costco.com^|
 @@||pt.afl.rakuten.co.jp^|
+@@||redir.tradedoubler.com^|
 @@||trk.ecomm.lenovo.com^|
 @@||res.ads.nicovideo.jp^|
 @@||79423.analytics.edgekey.net^|
@@ -947,13 +953,6 @@ wykop.pl$badfilter
 @@|app.crazyegg.com^|
 @@||goto.target.com^|
 @@||sax.sina.com.cn^|
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-@@||redir.tradedoubler.com^|
-@@||clk*.tradedoubler.com^|
-@@||5471782.fls.doubleclick.net^|
-@@||href.li^|
-@@||str.hit.gemius.pl^|
-@@||track.rutarget.ru^|
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 *skobutikks.com^
 @@://blog.*.top^
