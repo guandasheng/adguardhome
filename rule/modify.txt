@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-11-07 13:10:42
+! Last Modified: 2026-11-07 22:45:02
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -549,6 +549,13 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2603:1063:2001:215::365:ff1    ocws.officeapps.live.com
 2a00:1450:400b:c02::bc         alt5-mtalk.google.com
 2620:149:a23:f000::150         is4-ssl.mzstatic.com
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
+::1 localhost
+#@coolapk 1007
+::1 ip6-loopback
+::1 ip6-localhost
+::2 ip6-localhost
+::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 /^(\S+\.)?s?metrics\./
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
@@ -629,13 +636,6 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 ||*register.appsflyersdk.com^
 /^.+stat\.kugou\.com/
 ||*.exaapi.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
-::1 localhost
-#@coolapk 1007
-::1 ip6-loopback
-::1 ip6-localhost
-::2 ip6-localhost
-::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 -skadsdkless.appsflyersdk.com^
 .n.2.1.js^
@@ -954,6 +954,7 @@ wykop.pl$badfilter
 @@||obituaries.toacorn.com^|
 @@|app.crazyegg.com^|
 @@||goto.target.com^|
+@@||unsubscribe.email.premierleague.com^|
 @@||sax.sina.com.cn^|
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 *skobutikks.com^
